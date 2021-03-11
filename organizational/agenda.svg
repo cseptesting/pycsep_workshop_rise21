@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="227mm"
-   viewBox="0 0 210 227"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
@@ -319,6 +319,114 @@
          height="19743"
          id="rect2-6" />
     </clipPath>
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="180.5298"
+       height="13.502391"
+       id="rect1189-3" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="180.5298"
+       height="13.502391"
+       id="rect1193" />
+    <rect
+       x="15.992718"
+       y="177.89093"
+       width="162.13159"
+       height="30.695412"
+       id="rect1426-75" />
+    <rect
+       x="15.992718"
+       y="177.89093"
+       width="162.13159"
+       height="30.695412"
+       id="rect1196" />
+    <rect
+       x="15.992718"
+       y="177.89093"
+       width="194.00728"
+       height="82.696709"
+       id="rect1426-7-9" />
+    <rect
+       x="15.992718"
+       y="177.89093"
+       width="194.00728"
+       height="82.696709"
+       id="rect1199" />
+    <rect
+       x="9.7529173"
+       y="69.343262"
+       width="141.64169"
+       height="20.816751"
+       id="rect1103-2" />
+    <rect
+       x="9.7529173"
+       y="69.343262"
+       width="141.64169"
+       height="20.816751"
+       id="rect1202" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="178.07858"
+       height="22.221571"
+       id="rect1189-7-2" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="178.07858"
+       height="22.221571"
+       id="rect1205" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1189-1-5-9-4-7" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1137" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1432-6-4-4-7" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1140" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1432-7-3-8-4-6" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1143" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.24927"
+       height="13.062437"
+       id="rect1189-1-5-9-1-4-7" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.24927"
+       height="13.062437"
+       id="rect1146" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -327,17 +435,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28570554"
-     inkscape:cx="-798.32558"
-     inkscape:cy="212.89342"
+     inkscape:zoom="0.20202432"
+     inkscape:cx="105.62848"
+     inkscape:cy="1133.5964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     inkscape:window-x="1920"
-     inkscape:window-y="430"
+     inkscape:window-x="0"
+     inkscape:window-y="340"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
@@ -346,7 +454,8 @@
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
      showguides="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     units="in">
     <inkscape:grid
        type="xygrid"
        id="grid815" />
@@ -369,19 +478,19 @@
      id="layer1">
     <path
        style="fill:#b3b3b3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 210,0 H 162.95233 L 97.473803,227 210,227 Z"
+       d="M 215.9,0 H 174.40646 C 145.96541,99.185482 138.80959,180.72832 108.6581,279.4 l 107.2419,0 z"
        id="path827"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#87cdde;fill-opacity:0.513825;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 162.95233,0 H 0 V 86.854999 L 149.27341,47.421891 Z"
+       d="M 174.40646,0 H 0 v 86.854999 l 162.59167,-42.0453 z"
        id="path825"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.445196,17.551694 142.444894,-0.002 z"
+       d="m 15.445196,17.551694 154.094524,-0.002 z"
        id="path890-0-3-2-12"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -504,12 +613,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.445194"
-       y="13.177982"
+       y="13.177981"
        id="text922-9-6"><tspan
          sodipodi:role="line"
          id="tspan920-2-7"
          x="15.445194"
-         y="13.177982"
+         y="13.177981"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Agenda</tspan></text>
     <rect
        class="BoundingBox"
@@ -525,7 +634,7 @@
        class="TextShape"
        id="text185"
        x="17.534729"
-       y="-5.0057845"
+       y="-5.005784"
        style="font-size:3.88056px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -546,7 +655,7 @@
        class="TextShape"
        id="text193"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -567,7 +676,7 @@
        class="TextShape"
        id="text205"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -597,7 +706,7 @@
        class="TextShape"
        id="text221"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -618,7 +727,7 @@
        class="TextShape"
        id="text229"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -639,7 +748,7 @@
        class="TextShape"
        id="text245"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -660,7 +769,7 @@
        class="TextShape"
        id="text253"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -681,7 +790,7 @@
        class="TextShape"
        id="text261"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -702,7 +811,7 @@
        class="TextShape"
        id="text269"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -723,7 +832,7 @@
        class="TextShape"
        id="text289"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -744,7 +853,7 @@
        class="TextShape"
        id="text297"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -765,7 +874,7 @@
        class="TextShape"
        id="text317"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -786,7 +895,7 @@
        class="TextShape"
        id="text325"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -807,7 +916,7 @@
        class="TextShape"
        id="text341"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -828,7 +937,7 @@
        class="TextShape"
        id="text349"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -849,7 +958,7 @@
        class="TextShape"
        id="text365"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -870,7 +979,7 @@
        class="TextShape"
        id="text373"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -891,7 +1000,7 @@
        class="TextShape"
        id="text381"
        x="15.481351"
-       y="-5.0057845"
+       y="-5.005784"
        style="font-size:3.88056px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -901,7 +1010,7 @@
          style="font-size:3.88056px;stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="21.639194"
-           y="98.680328"
+           y="98.680313"
            id="tspan377"
            style="font-size:3.88056px;stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -912,7 +1021,7 @@
        class="TextShape"
        id="text389"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -933,7 +1042,7 @@
        class="TextShape"
        id="text397"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -954,7 +1063,7 @@
        class="TextShape"
        id="text413"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -964,7 +1073,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="27.880903"
-           y="109.90763"
+           y="109.90764"
            id="tspan409"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -975,7 +1084,7 @@
        class="TextShape"
        id="text421"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -985,7 +1094,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="48.315643"
-           y="109.90763"
+           y="109.90764"
            id="tspan417"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -996,7 +1105,7 @@
        class="TextShape"
        id="text437"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1006,7 +1115,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="27.880903"
-           y="114.7275"
+           y="114.72751"
            id="tspan433"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -1017,7 +1126,7 @@
        class="TextShape"
        id="text445"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1027,7 +1136,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="48.315643"
-           y="114.7275"
+           y="114.72751"
            id="tspan441"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -1038,7 +1147,7 @@
        class="TextShape"
        id="text461"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1059,7 +1168,7 @@
        class="TextShape"
        id="text469"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1080,7 +1189,7 @@
        class="TextShape"
        id="text485"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1101,7 +1210,7 @@
        class="TextShape"
        id="text493"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1122,7 +1231,7 @@
        class="TextShape"
        id="text513"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1143,7 +1252,7 @@
        class="TextShape"
        id="text527"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1179,7 +1288,7 @@
        class="TextShape"
        id="text543"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1200,7 +1309,7 @@
        class="TextShape"
        id="text551"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1221,7 +1330,7 @@
        class="TextShape"
        id="text567"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1242,7 +1351,7 @@
        class="TextShape"
        id="text575"
        x="17.534729"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1263,7 +1372,7 @@
        class="TextShape"
        id="text583"
        x="15.491024"
-       y="-2.3599489"
+       y="-2.3599486"
        style="font-size:3.88056px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1284,7 +1393,7 @@
        class="TextShape"
        id="text591"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1305,7 +1414,7 @@
        class="TextShape"
        id="text603"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1335,7 +1444,7 @@
        class="TextShape"
        id="text619"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1356,7 +1465,7 @@
        class="TextShape"
        id="text627"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1377,7 +1486,7 @@
        class="TextShape"
        id="text643"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1398,7 +1507,7 @@
        class="TextShape"
        id="text651"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1419,7 +1528,7 @@
        class="TextShape"
        id="text667"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1440,7 +1549,7 @@
        class="TextShape"
        id="text675"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1461,7 +1570,7 @@
        class="TextShape"
        id="text691"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1482,7 +1591,7 @@
        class="TextShape"
        id="text699"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1503,7 +1612,7 @@
        class="TextShape"
        id="text715"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1524,7 +1633,7 @@
        class="TextShape"
        id="text723"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1545,7 +1654,7 @@
        class="TextShape"
        id="text739"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1566,7 +1675,7 @@
        class="TextShape"
        id="text747"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1587,7 +1696,7 @@
        class="TextShape"
        id="text505"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1604,7 +1713,7 @@
        class="TextShape"
        id="text213"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1625,7 +1734,7 @@
        class="TextShape"
        id="text237"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1646,7 +1755,7 @@
        class="TextShape"
        id="text281"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1676,7 +1785,7 @@
        class="TextShape"
        id="text309"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1706,7 +1815,7 @@
        class="TextShape"
        id="text333"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1727,7 +1836,7 @@
        class="TextShape"
        id="text357"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1748,7 +1857,7 @@
        class="TextShape"
        id="text405"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1769,7 +1878,7 @@
        class="TextShape"
        id="text429"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1779,7 +1888,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="89.651245"
-           y="109.90763"
+           y="109.90764"
            id="tspan425"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -1790,7 +1899,7 @@
        class="TextShape"
        id="text453"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1800,7 +1909,7 @@
          style="stroke-width:0.00690591"><tspan
            class="TextPosition"
            x="89.651245"
-           y="114.7275"
+           y="114.72751"
            id="tspan449"
            style="stroke-width:0.00831018"><tspan
              fill="#000000"
@@ -1811,7 +1920,7 @@
        class="TextShape"
        id="text477"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1832,7 +1941,7 @@
        class="TextShape"
        id="text535"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1853,7 +1962,7 @@
        class="TextShape"
        id="text559"
        x="22.29723"
-       y="-3.4182818"
+       y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1874,7 +1983,7 @@
        class="TextShape"
        id="text611"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1895,7 +2004,7 @@
        class="TextShape"
        id="text635"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1916,7 +2025,7 @@
        class="TextShape"
        id="text659"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1937,7 +2046,7 @@
        class="TextShape"
        id="text683"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1958,7 +2067,7 @@
        class="TextShape"
        id="text707"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -1979,7 +2088,7 @@
        class="TextShape"
        id="text731"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -2000,7 +2109,7 @@
        class="TextShape"
        id="text755"
        x="22.29723"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -2021,7 +2130,7 @@
        class="TextShape"
        id="text763"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -2042,7 +2151,7 @@
        class="TextShape"
        id="text771"
        x="17.534729"
-       y="-0.24328406"
+       y="-0.24328344"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
          font-family="'Noto Sans', sans-serif"
@@ -2072,21 +2181,150 @@
          style="font-size:3.22086px;stroke-width:0.264583">A test on the 2016-2017 Central Italy Earthquake Cascade</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.411307,39.247076 130.220713,-0.002 z"
+       d="m 21.411307,39.247076 142.542723,-0.002 z"
        id="path890-0-3-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.411307,99.837143 109.571593,-0.002 z"
+       d="m 21.411307,99.837143 128.913673,-0.002 z"
        id="path890-0-3-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.411307,158.78997 90.693583,-0.002 z"
+       d="m 21.411307,158.78997 116.919963,-0.002 z"
        id="path890-0-3-2-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.445198,218.44851 157.111042,-0.002 z"
+       id="path890-0-6-9-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.897683"
+       y="215.07559"
+       id="text922-9-9-6-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan920-2-2-8-6-2"
+         x="14.897683"
+         y="215.07559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Links</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.936148"
+       y="253.78488"
+       id="text1081-3-0"><tspan
+         x="23.936148"
+         y="253.78488"
+         id="tspan1085-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
+         sodipodi:role="line">or you can drop by during the installation troubleshooting clinic: </tspan><tspan
+         x="23.936148"
+         y="258.19458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan1482" /></text>
+    <text
+       xml:space="preserve"
+       id="text1187-8"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-4-7);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-14.204292,93.130347)"><tspan
+         x="38.193359"
+         y="145.96149"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">If you encounter problems during the installation, you may either submit anissue on git:
+</tspan></tspan><tspan
+         x="38.193359"
+         y="150.2834"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">
+</tspan></tspan></text>
+    <g
+       id="g2121"
+       transform="translate(1.6767253,-40.089964)">
+      <a
+         id="a1438"
+         xlink:href="https://github.com/SCECcode/pycsep"
+         transform="translate(-36.695379,9.7272674)">
+        <text
+           xml:space="preserve"
+           id="text1430"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-6-4-4-7);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="translate(63.731431,13.018072)"><tspan
+             x="0.38867188"
+             y="262.01427"><tspan
+               style="font-size:3.52778px;fill:#0000ff">https://github.com/SCECcode/pycsep</tspan></tspan></text>
+      </a>
+      <a
+         id="a1478"
+         xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
+         transform="translate(-40.889359,4.9697574)">
+        <text
+           xml:space="preserve"
+           id="text1430-9"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-7-3-8-4-6);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="translate(68.252858,21.638256)"><tspan
+             x="0.38867188"
+             y="262.10285"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
+      </a>
+    </g>
+    <g
+       id="g2111"
+       transform="translate(2.3902299,-43.264963)">
+      <text
+         xml:space="preserve"
+         id="text1187-8-2"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-1-4-7);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="matrix(0.93294744,0,0,0.93294744,-13.99048,130.7754)"><tspan
+           x="38.193359"
+           y="145.87291"><tspan
+             style="font-weight:bold">Installation guide
+</tspan></tspan><tspan
+           x="38.193359"
+           y="150.10625"><tspan
+             style="font-weight:bold">Workshop material
+</tspan></tspan><tspan
+           x="38.193359"
+           y="154.33958"><tspan
+             style="font-weight:bold">Modeler survey</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="266.86792"
+         id="text995-9"><tspan
+           sodipodi:role="line"
+           id="tspan993-6"
+           x="62.646835"
+           y="266.86792"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="270.77722"
+         id="text995-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-0-6"
+           x="62.646835"
+           y="270.77722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="274.68652"
+         id="text995-6-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-0-5-9"
+           x="62.646835"
+           y="274.68652"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967?lang=en</tspan></text>
+    </g>
   </g>
 </svg>
