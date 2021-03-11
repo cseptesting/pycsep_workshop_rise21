@@ -435,9 +435,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20202432"
-     inkscape:cx="105.62848"
-     inkscape:cy="1133.5964"
+     inkscape:zoom="1.6161946"
+     inkscape:cx="436.93689"
+     inkscape:cy="818.5599"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -468,7 +468,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2273,58 +2273,85 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
       </a>
     </g>
-    <g
-       id="g2111"
+    <text
+       xml:space="preserve"
+       id="text1187-8-2"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-1-4-7);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.93294744,0,0,0.93294744,-11.60025,87.510437)"><tspan
+         x="38.193359"
+         y="145.87291"><tspan
+           style="font-weight:bold">Installation guide
+</tspan></tspan><tspan
+         x="38.193359"
+         y="150.10625"><tspan
+           style="font-weight:bold">Workshop material
+</tspan></tspan><tspan
+         x="38.193359"
+         y="154.33958"><tspan
+           style="font-weight:bold">Modeler survey</tspan></tspan></text>
+    <a
+       id="a1315"
+       xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide"
        transform="translate(2.3902299,-43.264963)">
-      <text
-         xml:space="preserve"
-         id="text1187-8-2"
-         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-1-4-7);fill:#000000;fill-opacity:1;stroke:none;"
-         transform="matrix(0.93294744,0,0,0.93294744,-13.99048,130.7754)"><tspan
-           x="38.193359"
-           y="145.87291"><tspan
-             style="font-weight:bold">Installation guide
-</tspan></tspan><tspan
-           x="38.193359"
-           y="150.10625"><tspan
-             style="font-weight:bold">Workshop material
-</tspan></tspan><tspan
-           x="38.193359"
-           y="154.33958"><tspan
-             style="font-weight:bold">Modeler survey</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
-         x="62.646835"
-         y="266.86792"
-         id="text995-9"><tspan
-           sodipodi:role="line"
-           id="tspan993-6"
+      <a
+         id="a1348"
+         xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
            x="62.646835"
            y="266.86792"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
-         x="62.646835"
-         y="270.77722"
-         id="text995-6-5"><tspan
-           sodipodi:role="line"
-           id="tspan993-0-6"
-           x="62.646835"
-           y="270.77722"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
-         x="62.646835"
-         y="274.68652"
-         id="text995-6-7-5"><tspan
-           sodipodi:role="line"
-           id="tspan993-0-5-9"
+           id="text995-9"><tspan
+             sodipodi:role="line"
+             id="tspan993-6"
+             x="62.646835"
+             y="266.86792"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
+      </a>
+    </a>
+    <a
+       id="a1303"
+       xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
+       transform="translate(2.3902299,-43.264963)">
+      <a
+         id="a1311"
+         xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21">
+        <a
+           id="a1319"
+           xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+             x="62.646835"
+             y="270.77722"
+             id="text995-6-5"><tspan
+               sodipodi:role="line"
+               id="tspan993-0-6"
+               x="62.646835"
+               y="270.77722"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
+        </a>
+      </a>
+    </a>
+    <a
+       id="a1299"
+       xlink:href="https://csep.limesurvey.net/481967?lang=en"
+       transform="translate(2.3902299,-43.264963)">
+      <a
+         id="a1307"
+         xlink:href="https://csep.limesurvey.net/481967?lang=en">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
            x="62.646835"
            y="274.68652"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967?lang=en</tspan></text>
-    </g>
+           id="text995-6-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan993-0-5-9"
+             x="62.646835"
+             y="274.68652"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967</tspan></text>
+      </a>
+    </a>
   </g>
 </svg>
