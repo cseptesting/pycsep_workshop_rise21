@@ -18,64 +18,70 @@
   <defs
      id="defs2">
     <rect
-       x="0.38917332"
-       y="259.33449"
-       width="68.838215"
+       x="31.774849"
+       y="123.10903"
+       width="18.269737"
+       height="9.6972542"
+       id="rect1284" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
        height="5.9102526"
        id="rect1432" />
     <rect
        x="9.7529173"
        y="69.343262"
-       width="149.37505"
-       height="18.3821"
+       width="141.64169"
+       height="20.816751"
        id="rect1103" />
     <rect
        x="12.286778"
-       y="70.876826"
+       y="70.876823"
        width="126.21643"
-       height="24.702918"
+       height="24.702917"
        id="rect1097" />
     <rect
        x="14.597014"
        y="226.33052"
        width="157.36064"
-       height="52.081621"
+       height="52.081619"
        id="rect1450" />
     <rect
        x="15.992718"
        y="177.89093"
        width="162.13159"
-       height="30.695411"
+       height="30.695412"
        id="rect1426" />
     <rect
-       x="38.193083"
-       y="142.83924"
+       x="38.193085"
+       y="142.83923"
        width="180.5298"
        height="13.502391"
        id="rect1189" />
     <rect
-       x="9.8061077"
-       y="138.77973"
-       width="34.233996"
+       x="9.8061075"
+       y="138.77972"
+       width="34.233997"
        height="26.059973"
        id="rect1128" />
     <rect
        x="12.371661"
        y="144.87967"
        width="166.71167"
-       height="61.942748"
+       height="61.942749"
        id="rect1122" />
     <rect
        x="21.098518"
-       y="150.65055"
-       width="157.98481"
-       height="56.171868"
+       y="150.65054"
+       width="157.98482"
+       height="56.171867"
        id="rect1116" />
     <rect
        x="25.707064"
-       y="84.790897"
-       width="50.62893"
-       height="65.481034"
+       y="84.790894"
+       width="50.628929"
+       height="65.481033"
        id="rect1011" />
     <rect
        x="15.992718"
@@ -104,8 +110,8 @@
     <rect
        x="38.193085"
        y="142.83923"
-       width="146.66915"
-       height="4.9505241"
+       width="146.66914"
+       height="4.9505243"
        id="rect1189-1" />
     <rect
        x="38.193085"
@@ -117,7 +123,7 @@
        x="0.38917333"
        y="259.3345"
        width="101.87477"
-       height="4.3073481"
+       height="4.3073483"
        id="rect1432-7" />
     <rect
        x="0.38917333"
@@ -125,6 +131,174 @@
        width="68.838219"
        height="5.9102526"
        id="rect1451" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="179.97734"
+       height="21.380621"
+       id="rect1189-7" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="180.5298"
+       height="13.502391"
+       id="rect1454" />
+    <rect
+       x="14.597014"
+       y="226.33052"
+       width="157.36064"
+       height="52.081619"
+       id="rect1450-6" />
+    <rect
+       x="14.597014"
+       y="226.33052"
+       width="157.36064"
+       height="52.081619"
+       id="rect1513" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1189-1-5" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1516" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1432-6" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1519" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1432-7-3" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1522" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1189-1-5-9" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1844" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1432-6-4" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1847" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1432-7-3-8" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1850" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.24927"
+       height="13.062437"
+       id="rect1189-1-5-9-1" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1977" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect1189-1-5-9-4" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.66914"
+       height="4.9505243"
+       id="rect2364" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect1432-6-4-4" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="68.838219"
+       height="5.9102526"
+       id="rect2367" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect1432-7-3-8-4" />
+    <rect
+       x="0.38917333"
+       y="259.3345"
+       width="101.87477"
+       height="4.3073483"
+       id="rect2370" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.24927"
+       height="13.062437"
+       id="rect1189-1-5-9-1-4" />
+    <rect
+       x="38.193085"
+       y="142.83923"
+       width="146.24927"
+       height="13.062437"
+       id="rect2373" />
+    <rect
+       x="14.597014"
+       y="226.33052"
+       width="157.36064"
+       height="52.081619"
+       id="rect1450-6-6" />
+    <rect
+       x="14.597014"
+       y="226.33052"
+       width="157.36064"
+       height="52.081619"
+       id="rect2553" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -133,9 +307,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="705.72031"
-     inkscape:cy="838.80243"
+     inkscape:zoom="0.40404864"
+     inkscape:cx="433.12161"
+     inkscape:cy="568.8399"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -148,30 +322,14 @@
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
-     inkscape:object-paths="true">
+     inkscape:object-paths="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     showguides="true"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid815" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,793.70079"
-       id="guide817"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="210,0"
-       orientation="-1122.5197,0"
-       id="guide819"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="210,297"
-       orientation="0,-793.70079"
-       id="guide821"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="0.38917332,61.700514"
-       orientation="1122.5197,0"
-       id="guide823"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -189,20 +347,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.786054,264.80099 167.807446,-0.002 z"
-       id="path890-0-6-9-8-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+    <a
+       id="a1005-6"
+       xlink:href="https://zoom.us/my/csepmeetings"
+       transform="translate(-33.776524,195.86601)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="56.669395"
+         y="98.445648"
+         id="text1003-2"><tspan
+           sodipodi:role="line"
+           id="tspan1001-6"
+           x="56.669395"
+           y="98.445648"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.264583" /></text>
+    </a>
     <path
        style="fill:#e6e6e6;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.238914,82.015754 -0.05039,44.746256 192.008226,0 L 210,116.64484 181.23915,81.975154 Z"
+       d="m 16.238914,82.015754 -0.05039,58.823456 H 208.19675 L 210,116.64484 181.23915,81.975154 Z"
        id="path918"
        sodipodi:nodetypes="cccccc" />
     <path
+       style="fill:#87cdde;fill-opacity:0.513825;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,297 0.02083297,241.35751 210,297 Z"
+       id="path825-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
        style="fill:#b3b3b3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 210,116.64484 177.8541,297 210,297 Z"
+       d="M 210,116.64484 163.15961,297 210,297 Z"
        id="path827"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -214,19 +388,19 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3bccde;fill-opacity:1;stroke:none;stroke-width:0.297924;"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3bccde;fill-opacity:1;stroke:none;stroke-width:0.297924"
        x="14.972936"
        y="25.976948"
        id="text831"><tspan
          sodipodi:role="line"
          x="14.972936"
          y="25.976948"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#3bccde;stroke:none;stroke-width:0.297924;fill-opacity:1;"
-         id="tspan886">pyCSEP</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#3bccde;fill-opacity:1;stroke:none;stroke-width:0.297924"
+         id="tspan886">pyCSEP - RISE</tspan><tspan
          sodipodi:role="line"
          x="14.972936"
-         y="40.371517"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#3bccde;stroke:none;stroke-width:0.297924;fill-opacity:1;"
+         y="40.371532"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#3bccde;fill-opacity:1;stroke:none;stroke-width:0.297924"
          id="tspan833">VIRTUAL WORKSHOP</tspan></text>
     <image
        y="43.35479"
@@ -298,61 +472,85 @@
        id="text1035" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.5;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="25.338022"
-       y="94.559975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;line-height:1.5;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="24.220791"
+       y="94.079712"
        id="text1081"><tspan
          sodipodi:role="line"
          id="tspan1079"
-         x="25.338022"
-         y="94.559975"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">When:</tspan><tspan
+         x="24.220791"
+         y="94.079712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">When:</tspan><tspan
          sodipodi:role="line"
-         x="25.338022"
-         y="99.851646"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
-         id="tspan1083">Duration:</tspan><tspan
+         x="24.220791"
+         y="99.106796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1211" /><tspan
          sodipodi:role="line"
-         x="25.338022"
-         y="105.14332"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
+         x="24.220791"
+         y="104.13388"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1213" /><tspan
+         sodipodi:role="line"
+         x="24.220791"
+         y="109.16096"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1083"></tspan><tspan
+         sodipodi:role="line"
+         x="24.220791"
+         y="114.18805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1363">Duration:</tspan><tspan
+         sodipodi:role="line"
+         x="24.220791"
+         y="119.21513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1116">Where:</tspan><tspan
          sodipodi:role="line"
-         x="25.338022"
-         y="110.43498"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
-         id="tspan1087">Preparation:</tspan><tspan
+         x="24.220791"
+         y="124.24222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1280" /><tspan
          sodipodi:role="line"
-         x="25.338022"
-         y="115.72665"
+         x="24.220791"
+         y="129.2693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1276" /><tspan
+         sodipodi:role="line"
+         x="24.220791"
+         y="134.29639"
          id="tspan1085"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans'" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="52.330063"
-       y="94.559975"
+       style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="52.879478"
+       y="94.079712"
        id="text1081-3"><tspan
          sodipodi:role="line"
          id="tspan1079-8"
-         x="52.330063"
-         y="94.559975"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">30 March 2021 - 17.00CET/16.00GMT/8.00PST</tspan><tspan
+         x="52.879478"
+         y="94.079712"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Testing seminar              </tspan><tspan
          sodipodi:role="line"
-         x="52.330063"
-         y="99.940224"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
-         id="tspan1083-6">2 hours</tspan><tspan
-         sodipodi:role="line"
-         x="52.330063"
-         y="105.2319"
-         id="tspan1087-7"
-         style="font-size:3.52778px" /><tspan
-         sodipodi:role="line"
-         x="52.330063"
-         y="110.52357"
+         x="52.879478"
+         y="99.190948"
          id="tspan1085-0"
-         style="font-size:3.52778px" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Forecasting<tspan
+   id="tspan1367"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"> <tspan
+   style="font-weight:bold;stroke-width:0.251354"
+   id="tspan1125">seminar</tspan>  </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="52.879478"
+         y="104.30219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1365">Installation Troubleshoot clinic</tspan><tspan
+         sodipodi:role="line"
+         x="52.879478"
+         y="109.41342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1371">Hands-on workshop</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -375,7 +573,7 @@
     <a
        id="a997"
        xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide"
-       transform="translate(-0.51044651,8.1951047)">
+       transform="matrix(0.95,0,0,0.95,51.079472,27.040231)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -393,7 +591,7 @@
     <a
        id="a1005"
        xlink:href="https://zoom.us/my/csepmeetings"
-       transform="translate(-3.8283086,6.8273027)">
+       transform="matrix(0.95,0,0,0.95,-0.4709738,25.957398)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -409,11 +607,11 @@
     <text
        xml:space="preserve"
        id="text1009"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:5.64444444px;line-height:1000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1011);" />
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1011);fill:#000000;fill-opacity:1;stroke:none;" />
     <a
        id="a997-3"
        xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
-       transform="translate(-8.3192501,40.641838)">
+       transform="matrix(0.95,0,0,0.95,34.765785,58.214782)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -430,8 +628,8 @@
     </a>
     <a
        id="a997-3-3"
-       xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide"
-       transform="translate(-7.9770554,43.899051)">
+       xlink:href="https://csep.limesurvey.net/481967?lang=en"
+       transform="matrix(0.95,0,0,0.95,43.134836,61.659296)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -444,9 +642,7 @@
            y="75.680367"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#000000;stroke-width:0.264583">Answer the <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff"
-   id="tspan1081">modeler's survey <tspan
-   style="font-size:3.52778px;fill:#ff0000;stroke:none"
-   id="tspan1422">(pending)</tspan></tspan></tspan></text>
+   id="tspan1081">modeler's survey</tspan></tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -496,10 +692,10 @@
        xml:space="preserve"
        id="text1187"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.005447,0.06660476)"><tspan
+       transform="translate(-16.122255,39.224938)"><tspan
          x="38.193359"
          y="146.17622"><tspan
-           style="shape-inside:url(#rect1189)">Enable modellers to perform simple operations to evaluate the performance of their   </tspan></tspan><tspan
+           style="shape-inside:url(#rect1189)">Its objective is to enable modellers to perform simple operations to evaluate their   </tspan></tspan><tspan
          x="38.193359"
          y="150.83289"><tspan
            style="shape-inside:url(#rect1189)">forecasts, using standard CSEP consistency and comparison tests. </tspan></tspan></text>
@@ -507,33 +703,33 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.098698"
-       y="136.41547"
+       y="175.57388"
        id="text922-9"><tspan
          sodipodi:role="line"
          id="tspan920-2"
          x="16.098698"
-         y="136.41547"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Objective</tspan></text>
+         y="175.57388"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Hands-on workshop </tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.276249,140.3173 189.504811,-0.002 z"
+       d="m 16.276249,179.47564 177.332551,-0.002 z"
        id="path890-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="csc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="15.644512"
-       y="173.75732"
+       x="15.27455"
+       y="211.85742"
        id="text922-9-9"><tspan
          sodipodi:role="line"
          id="tspan920-2-2"
-         x="15.644512"
-         y="173.75732"
+         x="15.27455"
+         y="211.85742"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Learning outcomes</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.822063,177.65958 183.303227,-0.002 z"
+       d="m 15.822063,215.75958 168.587017,-0.002 z"
        id="path890-0-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -541,7 +737,7 @@
        xml:space="preserve"
        id="text1424"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1426);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(6.9545814,2.6650506)"><tspan
+       transform="translate(6.9545814,40.76505)"><tspan
          x="15.992188"
          y="181.03339"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Import, filter and visualise earthquake catalogue data from an authorised data source
@@ -571,90 +767,20 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Visualise/plot the test results.</tspan></tspan></text>
     <text
        xml:space="preserve"
-       id="text1448"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1450);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(7.7972686,-1.5720871)"><tspan
-         x="14.597656"
-         y="229.18675"><tspan
-           style="shape-inside:url(#rect1450)">17.00 – 17.05</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Welcome &amp; Introductions (Danijel Schorlemmer &amp; Max Werner)
-</tspan></tspan><tspan
-         x="14.597656"
-         y="233.06731"><tspan
-           style="shape-inside:url(#rect1450)">17.05 – 17.15</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Summary of pyCSEP &amp; goals of the tutorial (Bill Savran)
-</tspan></tspan><tspan
-         x="14.597656"
-         y="236.94786"><tspan
-           style="shape-inside:url(#rect1450)">17.15 – 17.35</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Guided Tutorial
-</tspan></tspan><tspan
-         x="14.597656"
-         y="240.82842"><tspan
-           style="shape-inside:url(#rect1450)">17.35 – 17.45</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Q&amp;A / break
-</tspan></tspan><tspan
-         x="14.597656"
-         y="244.70897"><tspan
-           style="shape-inside:url(#rect1450)">17.45 – 18.45</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Hands-on Tutorial
-</tspan></tspan><tspan
-         x="14.597656"
-         y="248.58952"><tspan
-           style="shape-inside:url(#rect1450)">18.45 – 18.55</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Discussion, Q&amp;A and Feedback
-</tspan></tspan><tspan
-         x="14.597656"
-         y="252.47008"><tspan
-           style="shape-inside:url(#rect1450)">18.55 – 19.00</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">	</tspan><tspan
-           style="shape-inside:url(#rect1450)">Next steps (your own experiments, contributing/development)</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.644512"
-       y="160.88747"
+       y="200.04588"
        id="text922-9-9-6"><tspan
          sodipodi:role="line"
          id="tspan920-2-2-8"
          x="15.644512"
-         y="160.88747"
+         y="200.04588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Instructors</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="15.714782"
-       y="216.99785"
-       id="text922-9-9-6-0"><tspan
-         sodipodi:role="line"
-         id="tspan920-2-2-8-6"
-         x="15.714782"
-         y="216.99785"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Agenda</tspan></text>
-    <path
-       style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.262295,220.37088 175.250275,-0.002 z"
-       id="path890-0-6-9-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        id="text1424-9"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1426-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(36.335032,-21.572278)"><tspan
+       transform="translate(36.335032,17.586055)"><tspan
          x="15.992188"
          y="180.83894"><tspan
            style="shape-inside:url(#rect1426-7)">Bill Savran (USC), Kirsty Bayliss (Edinburgh), Toño Bayona (Bristol),
@@ -664,98 +790,187 @@
            style="shape-inside:url(#rect1426-7)">Pablo Iturrieta (GFZ) &amp; Max Werner (Bristol)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 49.127232,155.25072 v 8.9418"
+       d="m 49.127232,194.40906 v 8.9418"
        id="path1626" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="52.079723"
-       y="124.16057"
+       style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="75.055374"
+       y="138.00481"
        id="text1081-3-3"><tspan
          sodipodi:role="line"
-         x="52.079723"
-         y="124.16057"
+         x="75.055374"
+         y="138.00481"
          id="tspan1085-0-2"
-         style="font-size:3.52778px">Bring your own probabilistic long-term forecast (optional)</tspan></text>
+         style="font-size:3.35139px;stroke-width:0.251354">Bring your own probabilistic long-term forecast (optional)</tspan></text>
     <text
        xml:space="preserve"
        id="text1095"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:5.64444444px;line-height:1000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1097);" />
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1097);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
        id="text1101"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1103);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(6.2440108,-5.5343913)"
+       transform="translate(11.006511,-8.1802248)"
        x="0"
        y="0"><tspan
          x="9.7519531"
          y="72.666385"><tspan
-           dx="0 0 0 0 0.96866202 0 0 0 0 0 0 0 0 0 0 0 0 0 0.96866298 0 0 0 0.96866298 0 0 0 0.96866298 0 0 0 0 0 0.96866298 0 0 0.96866298 0 0 0 0 0 0 0 0 0 0 0.96865535 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.96866298"
+           dx="0 0 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9373672 0 0 0 0.9373672 0 0 0 0.9373672 0 0 0 0 0 0.9373672 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.93737483"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">The Collaboratory for the Study of Earthquake Predictability (</tspan><tspan
            style="font-weight:bold">CSEP</tspan><tspan
-           dx="0 0 0.96867061"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">) and </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">) </tspan></tspan><tspan
          x="9.7519531"
          y="77.006016"><tspan
-           dx="0 0 0 0 0 0.13127017 0 0 0 0 0 0 0 0.13127017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">and </tspan><tspan
+           dx="0.6951921 0 0 0 0 0.69519138 0 0 0 0 0 0 0 0.69519138"
            style="font-weight:bold">Work Package 7</tspan><tspan
-           dx="0 0.13126826 0 0 0.13127208"
+           dx="0 0.69519114 0 0 0.69519114"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> of the </tspan><tspan
-           dx="0.13126826"
+           dx="0.69518733"
            style="font-weight:bold">RISE</tspan><tspan
-           dx="0 0.13126826 0 0 0 0 0 0 0 0.13126826 0 0 0 0 0 0 0 0 0 0.13126826 0 0 0 0 0 0 0.13127208 0 0 0 0.13126445 0 0 0.13126826 0 0.13127208 0 0 0 0 0 0 0 0.13126826"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> project cordially invite you to a virtual tutorial </tspan></tspan><tspan
+           dx="0 0.69519496 0 0 0 0 0 0 0 0.69518733 0 0 0 0 0 0 0 0 0 0.69518733 0 0 0 0 0 0 0.69519496 0 0 0 0.69518733 0 0 0.69518733"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> project cordially invite you to a </tspan></tspan><tspan
          x="9.7519531"
          y="81.345646"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">about testing earthquake forecasts with the pyCSEP software toolkit: </tspan></tspan></text>
+           dx="0 0 0 0 0 0 0 0 0.064270735 0 0 0 0 0 0 0 0 0.064270735 0 0 0.064270735 0 0 0 0 0 0.064270735 0 0 0 0 0.064270735"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">virtual workshop to learn more about </tspan><tspan
+           dx="0.06426692 0 0 0 0 0 0 0 0.064274549 0 0 0 0 0 0 0 0 0 0 0.064274549 0 0 0 0 0 0 0 0 0 0.064274549"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">testing earthquake forecasts and </tspan></tspan><tspan
+         x="9.7519531"
+         y="85.685276"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">perform evaluations with the pyCSEP software toolkit: </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="107.99405"
+       y="94.079712"
+       id="text1081-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan1079-8-6"
+         x="107.99405"
+         y="94.079712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">16 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
+         sodipodi:role="line"
+         x="107.99405"
+         y="99.190948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1121-8">23 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
+         sodipodi:role="line"
+         x="107.99405"
+         y="104.30219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1377">25 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
+         sodipodi:role="line"
+         x="107.99405"
+         y="109.41342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1373">30 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="52.964802"
+       y="114.41119"
+       id="text1081-3-7"><tspan
+         sodipodi:role="line"
+         x="52.964802"
+         y="114.41119"
+         id="tspan1085-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">2 hours</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1282"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1284);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;line-height:1.5;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
+       x="23.685207"
+       y="124.54013"
+       id="text1081-6"><tspan
+         sodipodi:role="line"
+         id="tspan1079-89"
+         x="23.685207"
+         y="124.54013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Hands-on workshop</tspan><tspan
+         sodipodi:role="line"
+         x="23.685207"
+         y="129.56721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
+         id="tspan1348">preparation:</tspan><tspan
+         sodipodi:role="line"
+         x="23.685207"
+         y="134.5943"
+         id="tspan1085-04"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354" /></text>
+    <text
+       xml:space="preserve"
+       id="text1187-7"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-7);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-16.162046,12.078805)"><tspan
+         x="38.193359"
+         y="146.17622"><tspan
+           style="shape-inside:url(#rect1189-7)">We present a short series of presentations related to earthquake forecast testing </tspan></tspan><tspan
+         x="38.193359"
+         y="150.83289"><tspan
+           style="shape-inside:url(#rect1189-7)">methodologies, experiments results and prospects, along with developments from the </tspan></tspan><tspan
+         x="38.193359"
+         y="155.48957"><tspan
+           style="shape-inside:url(#rect1189-7)">modelers of the RISE project.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="15.238541"
-       y="261.42795"
+       x="15.942126"
+       y="148.42776"
+       id="text922-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan920-2-7"
+         x="15.942126"
+         y="148.42776"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Testing/Forecasting seminars</tspan></text>
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.11964,152.32947 184.61315,-0.002 z"
+       id="path890-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.822063,259.36997 157.111037,-0.002 z"
+       id="path890-0-6-9-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.27455"
+       y="255.99706"
        id="text922-9-9-6-0-1"><tspan
          sodipodi:role="line"
          id="tspan920-2-2-8-6-2"
-         x="15.238541"
-         y="261.42795"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Pre-workshop  Trouble Shoot Clinic</tspan></text>
+         x="15.27455"
+         y="255.99706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Links</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="21.888527"
-       y="283.73288"
+       x="24.313015"
+       y="291.53128"
        id="text1081-3-0"><tspan
-         x="21.888527"
-         y="283.73288"
+         x="24.313015"
+         y="291.53128"
          id="tspan1085-0-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
-         sodipodi:role="line">or you can drop by during an installation troubleshooting clinic: </tspan><tspan
-         x="21.888527"
-         y="288.23117"
+         sodipodi:role="line">or you can drop by during the installation troubleshooting clinic: </tspan><tspan
+         x="24.313015"
+         y="295.94101"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
          sodipodi:role="line"
-         id="tspan1482"> - 25 March 2021 - 17.00 CET - 19.00 CET </tspan></text>
-    <a
-       id="a1005-6"
-       xlink:href="https://zoom.us/my/csepmeetings"
-       transform="translate(-34.711097,193.66183)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="56.669395"
-         y="98.445648"
-         id="text1003-2"><tspan
-           sodipodi:role="line"
-           id="tspan1001-6"
-           x="56.669395"
-           y="98.445648"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.264583"> - https://zoom.us/my/csepmeetings</tspan></text>
-    </a>
+         id="tspan1482" /></text>
     <text
        xml:space="preserve"
        id="text1187-8"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.616717,124.1369)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-4);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-13.827427,131.93513)"><tspan
          x="38.193359"
          y="145.96149"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">If you encounter problems during the installation, you may either submit anissue on git:
@@ -764,31 +979,88 @@
          y="150.2834"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">
 </tspan></tspan></text>
-    <a
-       id="a1438"
-       xlink:href="https://github.com/SCECcode/pycsep"
-       transform="translate(-40.275792,-0.41433078)">
+    <g
+       id="g2121"
+       transform="translate(2.0535911,-2.3435146)">
+      <a
+         id="a1438"
+         xlink:href="https://github.com/SCECcode/pycsep"
+         transform="translate(-36.695379,9.7272674)">
+        <text
+           xml:space="preserve"
+           id="text1430"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-6-4-4);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="translate(63.731431,13.018072)"><tspan
+             x="0.38867188"
+             y="262.01427"><tspan
+               style="font-size:3.52778px;fill:#0000ff">https://github.com/SCECcode/pycsep</tspan></tspan></text>
+      </a>
+      <a
+         id="a1478"
+         xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
+         transform="translate(-40.889359,4.9697574)">
+        <text
+           xml:space="preserve"
+           id="text1430-9"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-7-3-8-4);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="translate(68.252858,21.638256)"><tspan
+             x="0.38867188"
+             y="262.10285"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
+      </a>
+    </g>
+    <g
+       id="g2111"
+       transform="translate(2.7670957,-2.3435146)">
       <text
          xml:space="preserve"
-         id="text1430"
-         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432);fill:#000000;fill-opacity:1;stroke:none;"
-         transform="translate(63.731431,13.018072)"><tspan
-           x="0.38867188"
-           y="262.01427"><tspan
-             style="font-size:3.52778px;fill:#0000ff">https://github.com/SCECcode/pycsep</tspan></tspan></text>
-    </a>
-    <a
-       id="a1478"
-       xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
-       transform="translate(-44.469771,-5.1718373)">
+         id="text1187-8-2"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-1-4);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="matrix(0.93294744,0,0,0.93294744,-13.99048,130.7754)"><tspan
+           x="38.193359"
+           y="145.87291"><tspan
+             style="font-weight:bold">Installation guide
+</tspan></tspan><tspan
+           x="38.193359"
+           y="150.10625"><tspan
+             style="font-weight:bold">Workshop material
+</tspan></tspan><tspan
+           x="38.193359"
+           y="154.33958"><tspan
+             style="font-weight:bold">Modeler survey</tspan></tspan></text>
       <text
          xml:space="preserve"
-         id="text1430-9"
-         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-7);fill:#000000;fill-opacity:1;stroke:none;"
-         transform="translate(68.252858,21.638256)"><tspan
-           x="0.38867188"
-           y="262.10285"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
-    </a>
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="266.86792"
+         id="text995-9"><tspan
+           sodipodi:role="line"
+           id="tspan993-6"
+           x="62.646835"
+           y="266.86792"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="270.77722"
+         id="text995-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-0-6"
+           x="62.646835"
+           y="270.77722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="274.68652"
+         id="text995-6-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-0-5-9"
+           x="62.646835"
+           y="274.68652"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967?lang=en</tspan></text>
+    </g>
   </g>
 </svg>

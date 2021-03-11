@@ -1,1 +1,4 @@
-# pycsep_workshop_rise21
+
+
+![](organizational/invitation.svg)
+![](organizational/agenda.svg)
