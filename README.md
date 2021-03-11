@@ -1,6 +1,10 @@
 
 
-![](organizational/invitation.svg)
-![](organizational/agenda.svg)
+![](https://raw.githubusercontent.com/cseptesting/pycsep_workshop_rise21/main/organizational/invitation.svg)
 
-<object type="image/svg+xml" data="organizational/agenda.svg"/></object>
+![](https://raw.githubusercontent.com/cseptesting/pycsep_workshop_rise21/main/organizational/agenda.svg)
+
+
+
+
+
