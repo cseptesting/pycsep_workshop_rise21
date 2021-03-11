@@ -134,8 +134,8 @@
     <rect
        x="38.193085"
        y="142.83923"
-       width="178.07859"
-       height="22.221571"
+       width="158.54783"
+       height="20.934572"
        id="rect1189-7" />
     <rect
        x="38.193085"
@@ -307,17 +307,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28570553"
-     inkscape:cx="-759.71942"
-     inkscape:cy="629.8604"
+     inkscape:zoom="0.80809727"
+     inkscape:cx="51.222188"
+     inkscape:cy="659.44475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     inkscape:window-x="0"
-     inkscape:window-y="340"
+     inkscape:window-x="1920"
+     inkscape:window-y="430"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
@@ -340,7 +340,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -693,7 +693,7 @@
        xml:space="preserve"
        id="text1187"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.122255,47.16244)"><tspan
+       transform="translate(-16.122255,45.574939)"><tspan
          x="38.193359"
          y="146.17622"><tspan
            style="shape-inside:url(#rect1189)">Its objective is to enable modellers to perform simple operations to evaluate their   </tspan></tspan><tspan
@@ -704,16 +704,16 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.098698"
-       y="183.51135"
+       y="181.92387"
        id="text922-9"><tspan
          sodipodi:role="line"
          id="tspan920-2"
          x="16.098698"
-         y="183.51135"
+         y="181.92387"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Hands-on workshop </tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.276249,187.41316 177.332551,-0.002 z"
+       d="m 16.276249,185.82565 181.537521,-0.002 z"
        id="path890-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -730,7 +730,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Learning outcomes</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.822063,228.98877 168.587017,-0.002 z"
+       d="m 15.822063,228.98877 171.412457,-0.002 z"
        id="path890-0-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -770,18 +770,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.644513"
-       y="211.15839"
+       y="210.62923"
        id="text922-9-9-6"><tspan
          sodipodi:role="line"
          id="tspan920-2-2-8"
          x="15.644513"
-         y="211.15839"
+         y="210.62923"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Instructors</tspan></text>
     <text
        xml:space="preserve"
        id="text1424-9"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1426-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(36.335032,28.698556)"><tspan
+       transform="translate(36.335032,28.169389)"><tspan
          x="15.992188"
          y="180.83894"><tspan
            style="shape-inside:url(#rect1426-7)">Bill Savran (USC), Kirsty Bayliss (Edinburgh), Toño Bayona (Bristol),
@@ -791,7 +791,7 @@
            style="shape-inside:url(#rect1426-7)">Pablo Iturrieta (GFZ) &amp; Max Werner (Bristol)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 49.127232,205.52157 v 8.9418"
+       d="m 49.127232,204.9924 v 8.9418"
        id="path1626" />
     <text
        xml:space="preserve"
@@ -907,16 +907,20 @@
        xml:space="preserve"
        id="text1187-7"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.162046,12.078805)"><tspan
+       transform="translate(-16.162046,12.078805)"
+       x="0"
+       y="0"><tspan
          x="38.193359"
          y="146.17622"><tspan
-           style="shape-inside:url(#rect1189-7)">We present a short series of presentations related to earthquake forecast testing </tspan></tspan><tspan
+           dx="0 0 0 1.2101212 0 0 0 0 0 0 0 0 0 1.2101212 0 1.2101192 0 0 0 0 0 1.2101212 0 0 0 0 0 0 1.2101212 0 0 1.2101212 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2101212 0 0 0 0 0 0 0 1.2101212 0 0 1.2101212 0 0 0 0 0 0 0 0 0 0 1.2101135"
+           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">We introduce a short series of presentations related to earthquake forecast </tspan></tspan><tspan
          x="38.193359"
          y="150.83289"><tspan
-           style="shape-inside:url(#rect1189-7)">methodologies, experiments results and prospects, along with developments from the </tspan></tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0.69314861 0 0 0 0 0 0 0 0 0.69314957 0 0 0 0 0 0 0 0 0 0 0 0.69314957 0 0 0 0 0 0 0 0.69314575 0 0 0 0.69315338 0 0 0 0 0 0 0 0 0 0 0.69314575 0 0 0 0 0 0.69314575 0 0 0 0 0.69314575"
+           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">testing methods, experiments results and prospects, along with developments </tspan></tspan><tspan
          x="38.193359"
          y="155.48957"><tspan
-           style="shape-inside:url(#rect1189-7)">modelers of the RISE project.</tspan></tspan></text>
+           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">from the modelers of the RISE project.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -930,7 +934,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Testing/Forecasting seminars</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.11964,152.32947 184.61315,-0.002 z"
+       d="m 16.11964,152.32947 190.62146,-0.002 z"
        id="path890-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
