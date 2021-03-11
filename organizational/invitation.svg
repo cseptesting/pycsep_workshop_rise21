@@ -13,7 +13,7 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    sodipodi:docname="invitation.svg">
   <defs
      id="defs2">
@@ -56,8 +56,8 @@
     <rect
        x="38.193085"
        y="142.83923"
-       width="180.5298"
-       height="13.502391"
+       width="173.57199"
+       height="9.608251"
        id="rect1189" />
     <rect
        x="9.8061075"
@@ -86,8 +86,8 @@
     <rect
        x="15.992718"
        y="177.89093"
-       width="194.00728"
-       height="82.696709"
+       width="135.71896"
+       height="14.972098"
        id="rect1426-7" />
     <rect
        x="15.992718"
@@ -134,8 +134,8 @@
     <rect
        x="38.193085"
        y="142.83923"
-       width="158.54783"
-       height="20.934572"
+       width="168.74605"
+       height="19.211247"
        id="rect1189-7" />
     <rect
        x="38.193085"
@@ -307,17 +307,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80809727"
-     inkscape:cx="51.222188"
-     inkscape:cy="659.44475"
+     inkscape:zoom="1.1428221"
+     inkscape:cx="463.40104"
+     inkscape:cy="883.87075"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     inkscape:window-x="1920"
-     inkscape:window-y="430"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
@@ -366,7 +366,7 @@
     </a>
     <path
        style="fill:#e6e6e6;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.238914,82.015754 -0.05039,58.823456 193.348746,0 6.28357,-24.19437 L 187.023,81.930556 Z"
+       d="m 16.238914,85.190753 -0.05039,58.823447 192.643996,0.0942 6.98832,-27.46352 -26.16397,-31.539285 z"
        id="path918"
        sodipodi:nodetypes="cccccc" />
     <path
@@ -424,7 +424,7 @@
          id="flowPara871" /></flowRoot>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.910258,45.205466 123.988102,-0.0016 z"
+       d="m 15.910258,45.205466 140.645472,-0.0016 z"
        id="path890"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -475,67 +475,67 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;line-height:1.5;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
        x="24.220791"
-       y="94.079712"
+       y="97.254707"
        id="text1081"><tspan
          sodipodi:role="line"
          id="tspan1079"
          x="24.220791"
-         y="94.079712"
+         y="97.254707"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">When:</tspan><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="99.106796"
+         y="102.28179"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1211" /><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="104.13388"
+         y="107.30888"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1213" /><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="109.16096"
+         y="112.33596"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1083" /><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="114.18805"
+         y="117.36304"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1363">Duration:</tspan><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="119.21513"
+         y="122.39013"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1116">Where:</tspan><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="124.24222"
+         y="127.41721"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1280" /><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="129.2693"
+         y="132.44431"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1276" /><tspan
          sodipodi:role="line"
          x="24.220791"
-         y="134.29639"
+         y="137.47139"
          id="tspan1085"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
-       x="52.879478"
-       y="94.079712"
+       x="58.171146"
+       y="97.254707"
        id="text1081-3"><tspan
          sodipodi:role="line"
          id="tspan1079-8"
-         x="52.879478"
-         y="94.079712"
+         x="58.171146"
+         y="97.254707"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Testing seminar              </tspan><tspan
          sodipodi:role="line"
-         x="52.879478"
-         y="99.190948"
+         x="58.171146"
+         y="102.31236"
          id="tspan1085-0"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Forecasting<tspan
    id="tspan1367"
@@ -543,25 +543,25 @@
    style="font-weight:bold;stroke-width:0.251354"
    id="tspan1125">seminar</tspan>  </tspan></tspan><tspan
          sodipodi:role="line"
-         x="52.879478"
-         y="104.30219"
+         x="58.171146"
+         y="107.37001"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1365">Installation Troubleshoot clinic</tspan><tspan
          sodipodi:role="line"
-         x="52.879478"
-         y="109.41342"
+         x="58.171146"
+         y="112.42767"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1371">Hands-on workshop</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="20.076204"
-       y="88.141052"
+       y="91.316048"
        id="text922"><tspan
          sodipodi:role="line"
          id="tspan920"
          x="20.076204"
-         y="88.141052"
+         y="91.316048"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Quick information</tspan></text>
     <image
        width="28.761217"
@@ -574,7 +574,7 @@
     <a
        id="a997"
        xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide"
-       transform="matrix(0.95,0,0,0.95,51.079472,27.040231)">
+       transform="matrix(0.95,0,0,0.95,51.079472,30.21523)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -592,7 +592,7 @@
     <a
        id="a1005"
        xlink:href="https://zoom.us/my/csepmeetings"
-       transform="matrix(0.95,0,0,0.95,-0.4709738,25.957398)">
+       transform="matrix(0.95,0,0,0.95,4.8206929,28.60323)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -612,7 +612,7 @@
     <a
        id="a997-3"
        xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
-       transform="matrix(0.95,0,0,0.95,34.765785,58.214782)">
+       transform="matrix(0.95,0,0,0.95,34.765785,61.389781)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -630,7 +630,7 @@
     <a
        id="a997-3-3"
        xlink:href="https://csep.limesurvey.net/481967?lang=en"
-       transform="matrix(0.95,0,0,0.95,43.134836,61.659296)">
+       transform="matrix(0.95,0,0,0.95,43.134836,64.834295)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -662,58 +662,58 @@
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1116);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="3030.5086"><tspan
-           dx="0 3.4506049 3.5828967 3.4726534 1070.2609 3.5828857 3.4506836 3.4615479 1.5654297 1070.2609 3.4506836 1.984375 1070.2607 2.2158203 3.5830078 3.4726562 1070.2607 2.2158203 3.5830078 2.2158203 3.4506836 2.3261719 1.5654297 3.4614258 1.5654297 1070.2612 1.5654297 2.9433594 1070.2607 2.2158203 3.4506836 1070.2607 3.4726562 3.5830078 3.4614258 3.5830078 1.5654297 3.4726562 1070.2612 5.5009766 3.4501953 3.5830078 3.4726562 1.5654297 1.5654297 3.4726562 2.3261719 2.9433594 1070.2607 2.2158203 3.4511719 1070.2607 3.5830078 3.4726562 2.3261719 1.984375 3.4501953 2.2265625 5.5019531 1070.2607 2.9433594 1.5654297 5.5009766 3.5830078 1.5654297 3.4726562 1070.2607 3.4501953 3.5830078 3.4726562 2.3261719 3.4619141 2.2158203 1.5654297 3.4501953 3.5830078 2.9433594 1070.2617 2.2158203 3.4501953 1070.2607 3.4726562 3.3408203 3.4609375 1.5654297 3.5830078 3.4619141 2.2158203 3.4726562 1070.2607 2.2158203 3.5830078 3.4726562 1.5654297 2.3261719 1070.2617 1.984375 3.4492188 2.2050781 3.4726562 3.109375 3.4609375 2.9433594 2.2167969 2.9433594 1070.2598 3.5839844 2.9433594 1.5644531 3.5839844 3.5820312 1070.2617 2.2148438 3.5839844 3.4726562 1070.2598 3.5839844 3.3398438 3.9472656 3.5820312 3.5722656 3.40625 1070.2617 2.2148438 3.4511719 3.4511719 1.5644531 3.2753906 1.5644531 2.2167969 1.796875 1070.2598 3.4511719 3.5820312 1.5664062 2.9433594 1070.2617 1.5644531 3.5820312 3.109375 1.5664062 3.5820312 3.5839844 3.4726562 2.9433594 1070.2598 3.5839844 3.4492188 4.6191406 3.5839844 1.5644531 3.4511719 3.4609375 3.5839844 1.5644531 3.5839844 3.5820312 1070.2617 3.4609375 3.5839844 3.5820312 1070.2617 3.5820312 1.5644531 3.4511719 2.2167969 2.2148438 1.5664062 3.5820312 3.5839844 1070.2598 3.4726562 3.4628906 2.3261719 2.2148438 3.5839844 3.5820312 3.5820312 3.4628906 3.0761719 3.4726562 1070.2598 3.109375 3.4609375 2.2167969 3.4609375 1.5664062 3.4492188 3.5839844 3.5820312 3.4726562 1070.2617 3.5820312 3.4628906 2.2148438 3.4609375 1.796875 1070.2617 0 3.5605469 1.5664062 2.2148438 3.4726562 2.3261719 1.5664062 3.5820312 3.5839844 1070.2598 3.4609375 1070.2598 3.109375 3.4648438 2.2148438 3.4609375 1.5664062 3.4492188 3.5820312 3.5859375 3.4726562 1070.2578 2.21875 3.4492188 1070.2617 2.2148438 3.4726562 2.9414062 2.21875 1.5664062 3.5820312 3.5820312 1070.2617 2.203125 3.4726562 3.5820312 1.5664062 3.453125 3.5820312 2.9414062 1.796875 1070.2617 1.5664062 3.4726562 3.4609375 2.2265625 3.5820312 1.5664062 3.5820312 3.5820312 1070.2617 3.4609375 3.5859375 3.4492188 3.5820312 2.21875 1070.2578 3.9492188 3.5820312 3.5703125 3.40625 1070.2617 2.9453125 2.2148438 3.4609375 3.5820312 3.5859375 3.4609375 2.2265625 3.5820312 2.9453125 1070.2578 3.4609375 3.5859375 3.5820312 1070.2617 1.984375 3.4492188 2.2265625 5.5 3.4648438 2.2148438 2.9414062 1.796875 1070.2617 3.5820312 1.5664062 3.453125 2.2148438 2.2148438 1.5664062 3.5820312 3.5820312 1070.2617 1.984375 3.4492188 2.2070312 3.4726562 3.109375 3.4609375 2.9414062 2.21875 2.9414062 1.796875 1070.2617 3.4609375 3.5820312 3.5859375 1070.2578 3.5859375 3.4726562 2.3242188 1.984375 3.4492188 2.2304688 5.5 1.5664062 3.5820312 3.5820312 1070.2617 2.9414062 2.21875 3.4609375 3.5820312 3.5820312 3.4609375 2.2265625 3.5859375 1070.2578 3.9492188 3.5820312 3.5703125 3.4101562 1070.2578 1.984375 3.453125 2.203125 3.4726562 3.109375 3.4609375 2.9453125 2.2148438 1070.2617 3.109375 3.4492188 3.5820312 2.9453125 4.34375 1.5625 2.9453125 2.2148438 3.4726562 3.5820312 3.109375 3.3398438 1070.2617 3.4609375 3.5859375 3.5820312 1070.2617 3.1054688 3.453125 5.5 3.5820312 3.4609375 2.328125 1.5664062 2.9414062 3.453125 3.5820312 1070.2617 2.2148438 3.4726562 2.9414062 2.21875 2.9414062 1.796875 1070.2617">The goal of the tutorial is to enable modellers to perform simple operations to evaluate their forecasts using the pyCSEP toolkit. This includes downloading and plotting earthquake catalogue data, filtering a catalogue to testing regions, learning about CSEP standards and formats, plotting forecasts, and performing standard CSEP forecast consDistency and comparison tests. 
+         y="3030.5988"><tspan
+           dx="0 3.447849 3.139169 3.1391687 1.5682058 3.1391687 3.1391697 3.1391678 1.2540131 1.5682068 3.1391697 1.5682049 1.5682068 1.5682068 3.1391678 3.1391678 1.5682068 1.5682068 3.1391678 1.5682068 3.1391716 1.8796425 1.2540131 3.1391678 1.2540131 1.5682068 1.2540131 2.8222198 1.5682068 1.5682068 3.1391678 1.5682068 3.1391678 3.1391678 3.1391754 3.1391678 1.2540131 3.1391678 1.5682068 4.7018585 3.1391754 3.1391678 3.1391678 1.2540131 1.2540131 3.1391678 1.8796463 2.8222198 1.5682068 1.5682068 3.1391678 1.5682068 3.1391678 3.1391678 1.8796463 1.5682068 3.1391602 1.8796387 4.7018738 1.5682068 2.8222198 1.2540131 4.7018585 3.1391754 1.2540131 3.1391602 1.5682068 3.1391754 3.1391602 3.1391754 1.8796387 3.1391754 1.5682068 1.2540131 3.1391602 3.1391754 2.8222198 1.5682068 1.5682068 3.1391602 1.5682068 3.1391754 2.8222198 3.1391602 1.2540283 3.1391602 3.1391754 1.5682068 3.1391602 1.5682068 1.5682068 3.1391754 3.1391602 1.2540131 1.8796539 1.5682068 1.5682068 3.1391602 1.8796387 3.1391754 2.8222198 3.1391602 2.8222198 1.5682068 2.8222198 1.5682068 3.1391602 2.8222351 1.2540283 3.1391602 3.1391602 1.5682068 1.5682068 3.1391602 3.1391907 1.5682068 3.1391602 2.8222046 4.0762329 3.764801 3.764801 3.6628418 1.5682068 1.5682068 3.1391602 3.1391602 1.2540283 2.8222046 1.2540283 1.5682068 1.5682068 1.466217 3.4478455 3.1391907 1.2539978 2.8222351 1.5682068 1.2539978 3.1391602 2.8222351 1.2539978 3.1391907 3.1391602 3.1391602 2.8222351 1.5682068 3.1391602 3.1391602 4.0762329 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 1.2539978 3.1391907 3.1391602 1.5682068 3.1391602 3.1391907 3.1391602 1.5682068 3.1391602 1.2540283 3.1391602 1.5682068 1.5682068 1.2539978 3.1391907 3.1391602 1.5682068 3.1391602 3.1391907 1.8796387 1.5682068 3.1391602 3.1391602 3.1391602 3.1391907 2.8222046 3.1391907 1.5682068 2.8222046 3.1391602 1.5682068 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 3.1391602 1.5682068 3.1391602 3.1391907 1.5682068 3.1391602 1.5682068 1.5682068 1.5682068 1.2540283 1.2539978 1.5682068 3.1391602 1.8796387 1.2540283 3.1391602 3.1391907 1.5682068 3.1391602 1.5682068 2.8222046 3.1391602 1.5682373 3.1391602 1.2540283 3.1391602 3.1391602 3.1391602 3.1391602 1.5682373 1.5681763 3.1391602 1.5682373 1.5681763 3.1391602 2.8222656 1.5681763 1.2540283 3.1391602 3.1391602 1.5682373 1.8796387 3.1391602 3.1391602 1.2540283 3.1391602 3.1391602 2.8222046 1.5682373 1.5681763 1.2540283 3.1391602 3.1391602 1.8796997 3.1391602 1.2539673 3.1392212 3.1391602 1.5681763 3.1391602 3.1391602 3.1392212 3.1391602 1.5681763 1.5682373 4.0762329 3.7647705 3.7648315 3.6627808 1.5682373 2.8222046 1.5682373 3.1391602 3.1391602 3.1391602 3.1391602 1.8796387 3.1391602 2.8222656 1.5681763 3.1391602 3.1391602 3.1391602 1.5682373 1.5681763 3.1392212 1.8796387 4.7018433 3.1391602 1.5682373 2.8222046 1.5681763 1.5682373 3.1391602 1.2540283 3.1391602 1.5681763 1.5682373 1.2540283 3.1391602 3.1391602 1.5681763 1.5682373 3.1391602 1.8796387 3.1391602 2.8222656 3.1391602 2.8222046 1.5681763 2.8222656 1.5681763 1.5682373 3.1391602 3.1391602 3.1391602 1.5682373 3.1391602 3.1391602 1.8796387 1.5681763 3.1392212 1.8796387 4.7018433 1.2540283 3.1391602 3.1391602 1.5681763 2.8222656 1.5681763 3.1391602 3.1392212 3.1391602 3.1391602 1.8796387 3.1391602 1.5681763 4.0762939 3.7647705 3.7647705 3.6628418 1.5682373 1.5681763 3.1391602 1.8796387 3.1391602 2.8222656 3.1391602 2.8222046 1.5682373 1.5681763 2.8222046 3.1391602 3.1392212 2.8222046 4.0762329 1.2540283 2.8222046 1.5681763 3.1391602 3.1392212 2.8222046 2.8222046 1.5682373 3.1391602 3.1391602 3.1391602 1.5682373 2.8222046 3.1391602 4.7018433 3.1391602 3.1392212 1.8796387 1.2539673 2.8222656 3.1391602 3.1391602 1.5681763 1.5682373 3.1391602 2.8222046 1.5682373 2.8222046 1.5682373 1.5681763">The goal of the tutorial is to enable modellers to perform simple operations to evaluate their forecasts using the pyCSEP toolkit. This includes downloading and plotting earthquake catalogue data, filtering a catalogue to testing regions, learning about CSEP standards and formats, plotting forecasts, and performing standard CSEP forecast consDistency and comparison tests. 
 </tspan></tspan><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="8674.9488"><tspan>
+         y="8675.039"><tspan>
 </tspan></tspan><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="14319.389"><tspan
-           dx="0 3.4065077 3.3403623 3.9466982 3.5828962 3.5718727 3.4065075 648.5484 1.5654297 2.9434814 648.54846 3.4615479 3.5828857 648.54846 3.4505615 3.5828857 3.4726562 3.5828857 2.0395508 2.9434814 3.4505615 3.5828857 2.204834 3.1088867 3.4726562 648.54846 3.1088867 3.4504395 5.5012207 5.5009766 3.5830078 3.5830078 1.5654297 2.2158203 3.2412109 2.0393066 3.5830078 3.4726562 3.340332 3.4726562 1.5654297 3.4506836 3.5827637 3.4726562 3.5830078 648.54834 3.5830078 3.340332 2.2158203 3.5830078 3.4504395 3.5830078 648.54834 1.5654297 1.5654297 3.5830078 2.3259277 3.4616699 2.3261719 3.340332 648.54834 2.2158203 3.5830078 3.4619141 2.2158203 648.54834 3.5830078 2.2045898 3.4506836 3.340332 1.5654297 3.5830078 3.4726562 2.9433594 648.54834 2.2158203 3.4506836 3.4506836 1.5654297 2.9433594 648.54834 1.984375 3.4506836 2.3261719 648.54834 2.2050781 3.59375 2.2050781 648.54834 3.4726562 3.340332 3.4614258 1.5654297 3.5830078 3.4614258 2.2163086 1.5654297 3.5825195 3.5830078 648.54834 3.5830078 2.2050781 3.4501953 3.5830078 3.4619141 3.5830078 1.5654297 1.5654297 1.5654297 2.9433594 2.2158203 1.5654297 3.1083984 648.54883 3.4726562 3.4619141 2.3261719 2.2158203 3.5830078 3.5820312 3.5830078 3.4619141 3.0761719 3.4726562 648.54785 1.984375 3.4511719 2.2041016 3.4726562 3.109375 3.4619141 2.9433594 2.2158203 2.9433594 1.796875 648.54785 2.2050781 3.59375 2.2050781 648.54883 4.6191406 3.4501953 2.3261719 3.2744141 1.5654297 3.5830078 3.5830078 648.54785 4.6191406 1.5654297 2.2158203 3.5830078 648.54883 3.4726562 3.4619141 2.3261719 2.2158203 3.5820312 3.5830078 3.5830078 3.4619141 3.0761719 3.4726562 648.54785 3.109375 3.4609375 2.2158203 3.4619141 1.5654297 3.4501953 3.5830078 3.5830078 3.4726562 2.9433594 648.54883 1.5654297 3.5830078 648.54785 2.2158203 3.5830078 1.5654297 2.9433594 648.54883 3.1083984 3.4511719 3.5830078 2.2158203 3.3730469 3.3408203 2.2158203 1.796875 648.54785 3.4619141 3.5830078 3.5830078 648.54883 2.2050781 3.59375 2.2050781 648.54688 3.109375 2.2050781 3.4726562 3.4609375 2.2167969 1.5644531 3.5839844 3.5820312 648.54883 3.3398438 1.5664062 2.9433594 3.5820312 3.4628906 1.5644531 1.5664062 2.9433594 3.4609375 2.2167969 1.5644531 3.4511719 3.5820312 2.9433594 1.796875 2.2167969 3.4609375 2.9433594 3.5839844">PyCSEP is an open-source community-developed python library that provides tools for (1) evaluating probabilistic earthquake forecasts, (2) working with earthquake catalogues in this context, and (3) creating visualisations.tasdt</tspan></tspan></text>
+         y="14319.479"><tspan
+           dx="0 3.7647974 2.8222201 4.0762343 3.7647972 3.7647972 3.6628227 1.5682068 1.2540131 2.8222198 1.5682068 3.1391697 3.1391678 1.5682068 3.1391678 3.1391678 3.1391716 3.1391678 1.8796425 2.8222198 3.1391678 3.1391716 1.8796425 2.822216 3.1391678 1.5682068 2.8222198 3.1391754 4.7018585 4.7018661 3.1391678 3.1391678 1.2540131 1.5682068 2.8222198 1.8796387 3.1391754 3.1391678 2.8222198 3.1391678 1.2540131 3.1391678 3.1391678 3.1391678 3.1391678 1.5682068 3.1391754 2.8222198 1.5682068 3.1391602 3.1391754 3.1391602 1.5682068 1.2540131 1.2540283 3.1391602 1.8796387 3.1391754 1.8796387 2.8222198 1.5682068 1.5682068 3.1391754 3.1391602 1.5682068 1.5682068 3.1391754 1.8796387 3.1391754 2.8222198 1.2540131 3.1391602 3.1391754 2.8222198 1.5682068 1.5682068 3.1391602 3.1391754 1.2540131 2.8222198 1.5682068 1.5682068 3.1391602 1.8796539 1.5682068 1.8796387 3.1391602 1.8796539 1.5682068 3.1391602 2.8222198 3.1391754 1.2540131 3.1391602 3.1391754 1.5682068 1.2540131 3.1391754 3.1391602 1.5682068 3.1391602 1.8796387 3.1391907 3.1391602 3.1391602 3.1391907 1.2539978 1.2540283 1.2539978 2.8222351 1.5682068 1.2539978 2.8222351 1.5682068 3.1391602 3.1391602 1.8796387 1.5682068 3.1391907 3.1391602 3.1391602 3.1391602 2.8222351 3.1391602 1.5682068 1.5682068 3.1391907 1.8796387 3.1391602 2.8222046 3.1391907 2.8222046 1.5682068 2.8222351 1.5682068 1.5682068 1.8796387 3.1391602 1.8796387 1.5682068 4.0762329 3.1391907 1.8796387 2.8222046 1.2540283 3.1391602 3.1391602 1.5682068 4.0762329 1.2540283 1.5682068 3.1391602 1.5682068 3.1391602 3.1391907 1.8796387 1.5682068 3.1391602 3.1391602 3.1391907 3.1391602 2.8222046 3.1391907 1.5682068 2.8222046 3.1391602 1.5682068 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 3.1391602 2.8222351 1.5682068 1.2539978 3.1391907 1.5682068 1.5682068 3.1391602 1.2539978 2.8222351 1.5682068 2.8222046 3.1391907 3.1391602 1.5682068 3.1391602 2.8222351 1.5682068 1.5682068 1.5682068 3.1391602 3.1391602 3.1391907 1.5682068 1.8796387 3.1391602 1.8796387 1.5682068 2.8222351 1.8796387 3.1391602 3.1391602 1.5682068 1.2540283 3.1391602 3.1391602 1.5682373 2.8222046 1.2540283 2.8222046 3.1391602 3.1391602 1.2540283 1.2540283 2.8222046 3.1391602 1.5682373 1.2539673 3.1392212 3.1391602 2.8222046 1.5681763 1.5682373 3.1391602 2.8222046 3.1391602">PyCSEP is an open-source community-developed python library that provides tools for (1) evaluating probabilistic earthquake forecasts, (2) working with earthquake catalogues in this context, and (3) creating visualisations.tasdt</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1120"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1122);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="12.371094"
-         y="3030.5086"><tspan
-           dx="0 3.4616294 2.9434876 3.5828962">asdt</tspan></tspan></text>
+         y="3030.5988"><tspan
+           dx="0 3.1391687 2.8222198 3.1391687">asdt</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1126"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1128);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="9.8066406"
-         y="2988.5262"><tspan
-           dx="0 3.4616294 2.9434876 3.5828962 3.4616299 2.9434881">asdasd</tspan></tspan></text>
+         y="2988.6164"><tspan
+           dx="0 3.1391687 2.8222198 3.1391687 3.1391687 2.8222208">asdasd</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1187"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.122255,45.574939)"><tspan
+       transform="translate(-16.651422,50.337439)"><tspan
          x="38.193359"
-         y="146.17622"><tspan
-           style="shape-inside:url(#rect1189)">Its objective is to enable modellers to perform simple operations to evaluate their   </tspan></tspan><tspan
+         y="146.27366"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';shape-inside:url(#rect1189)">Its objective is to enable modellers to perform simple operations to evaluate their   forecasts, </tspan></tspan><tspan
          x="38.193359"
-         y="150.83289"><tspan
-           style="shape-inside:url(#rect1189)">forecasts, using standard CSEP consistency and comparison tests. </tspan></tspan></text>
+         y="150.96572"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';shape-inside:url(#rect1189)">using standard CSEP consistency and comparison tests. </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="16.098698"
-       y="181.92387"
+       y="186.68639"
        id="text922-9"><tspan
          sodipodi:role="line"
          id="tspan920-2"
          x="16.098698"
-         y="181.92387"
+         y="186.68639"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Hands-on workshop </tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.276249,185.82565 181.537521,-0.002 z"
+       d="m 16.276249,190.58815 180.729621,-0.002 z"
        id="path890-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -721,16 +721,16 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.27455"
-       y="225.08656"
+       y="230.37823"
        id="text922-9-9"><tspan
          sodipodi:role="line"
          id="tspan920-2-2"
          x="15.27455"
-         y="225.08656"
+         y="230.37823"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Learning outcomes</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.822063,228.98877 171.412457,-0.002 z"
+       d="m 15.822063,234.28044 171.412457,-0.002 z"
        id="path890-0-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -738,72 +738,72 @@
        xml:space="preserve"
        id="text1424"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1426);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(6.9545814,53.994219)"><tspan
+       transform="translate(6.9545814,59.285886)"><tspan
          x="15.992188"
          y="181.03339"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Import, filter and visualise earthquake catalogue data from an authorised data source
 </tspan></tspan><tspan
          x="15.992188"
-         y="185.20542"><tspan
+         y="185.14338"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Understand CSEP formats for catalogues and forecasts
 </tspan></tspan><tspan
          x="15.992188"
-         y="189.37745"><tspan
+         y="189.25336"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Import and plot a spatial earthquake gridded forecast
 </tspan></tspan><tspan
          x="15.992188"
-         y="193.54948"><tspan
+         y="193.36335"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Evaluate an earthquake forecast with earthquake catalogue data by applying 
 </tspan></tspan><tspan
          x="15.992188"
-         y="197.7215"><tspan
+         y="197.47334"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">   different consistency tests
 </tspan></tspan><tspan
          x="15.992188"
-         y="201.89353"><tspan
+         y="201.58332"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Compare the informativeness of multiple forecasts 
 </tspan></tspan><tspan
          x="15.992188"
-         y="206.06556"><tspan
+         y="205.69331"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">• Visualise/plot the test results.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.644513"
-       y="210.62923"
+       y="215.39174"
        id="text922-9-9-6"><tspan
          sodipodi:role="line"
          id="tspan920-2-2-8"
          x="15.644513"
-         y="210.62923"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Instructors</tspan></text>
+         y="215.39174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Organizers</tspan></text>
     <text
        xml:space="preserve"
        id="text1424-9"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1426-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(36.335032,28.169389)"><tspan
+       transform="translate(36.335032,32.931889)"><tspan
          x="15.992188"
-         y="180.83894"><tspan
-           style="shape-inside:url(#rect1426-7)">Bill Savran (USC), Kirsty Bayliss (Edinburgh), Toño Bayona (Bristol),
+         y="180.93638"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';shape-inside:url(#rect1426-7)">Bill Savran (USC), Kirsty Bayliss (Edinburgh), Toño Bayona (Bristol),
 </tspan></tspan><tspan
          x="15.992188"
-         y="184.7195"><tspan
-           style="shape-inside:url(#rect1426-7)">Pablo Iturrieta (GFZ) &amp; Max Werner (Bristol)</tspan></tspan></text>
+         y="184.85233"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';shape-inside:url(#rect1426-7)">Pablo Iturrieta (GFZ), Max Werner (Bristol) &amp; Danijel Schorlemmer (GFZ)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 49.127232,204.9924 v 8.9418"
+       d="m 49.127232,209.7549 v 8.9418"
        id="path1626" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
-       x="75.055374"
-       y="138.00481"
+       x="79.817871"
+       y="141.17984"
        id="text1081-3-3"><tspan
          sodipodi:role="line"
-         x="75.055374"
-         y="138.00481"
+         x="79.817871"
+         y="141.17984"
          id="tspan1085-0-2"
-         style="font-size:3.35139px;stroke-width:0.251354">Bring your own probabilistic long-term forecast (optional)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.251354">Bring your own probabilistic long-term forecast (optional)</tspan></text>
     <text
        xml:space="preserve"
        id="text1095"
@@ -812,70 +812,73 @@
        xml:space="preserve"
        id="text1101"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1103);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(14.181513,-8.1802248)"
+       transform="translate(14.181513,-7.1218914)"
        x="0"
        y="0"><tspan
          x="9.7519531"
          y="72.666385"><tspan
-           dx="0 0 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9373672 0 0 0 0.9373672 0 0 0 0.9373672 0 0 0 0 0 0.9373672 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0.9373672 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.93737483"
+           dx="0 0 0 0 0.10770679 0 0 0 0 0 0 0 0 0 0 0 0 0 0.10770774 0 0 0 0.10770392 0 0 0 0.10770774 0 0 0 0 0 0.10770774 0 0 0.10770774 0 0 0 0 0 0 0 0 0 0 0.10770774 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.10770774"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">The Collaboratory for the Study of Earthquake Predictability (</tspan><tspan
-           style="font-weight:bold">CSEP</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">) </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">CSEP</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">) </tspan><tspan
+           dx="0.10771537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">and </tspan></tspan><tspan
          x="9.7519531"
-         y="77.006016"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">and </tspan><tspan
-           dx="0.6951921 0 0 0 0 0.69519138 0 0 0 0 0 0 0 0.69519138"
-           style="font-weight:bold">Work Package 7</tspan><tspan
-           dx="0 0.69519114 0 0 0.69519114"
+         y="76.938328"><tspan
+           dx="0 0 0 0 0 0.79832911 0 0 0 0 0 0 0 0.79832816"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">Work Package 7</tspan><tspan
+           dx="0 0.79832816 0 0 0.79832816"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> of the </tspan><tspan
-           dx="0.69518733"
-           style="font-weight:bold">RISE</tspan><tspan
-           dx="0 0.69519496 0 0 0 0 0 0 0 0.69518733 0 0 0 0 0 0 0 0 0 0.69518733 0 0 0 0 0 0 0.69519496 0 0 0 0.69518733 0 0 0.69518733"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> project cordially invite you to a </tspan></tspan><tspan
+           dx="0.79832816"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold'">RISE</tspan><tspan
+           dx="0 0.79832816 0 0 0 0 0 0 0 0.79832816 0 0 0 0 0 0 0 0 0 0.79833198 0 0 0 0 0 0 0.79832816 0 0 0 0.79833198 0 0 0.79833198"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start"> project cordially invite you to a </tspan><tspan
+           dx="0.79832816"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">virtual </tspan></tspan><tspan
          x="9.7519531"
-         y="81.345646"><tspan
-           dx="0 0 0 0 0 0 0 0 0.064270735 0 0 0 0 0 0 0 0 0.064270735 0 0 0.064270735 0 0 0 0 0 0.064270735 0 0 0 0 0.064270735"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">virtual workshop to learn more about </tspan><tspan
-           dx="0.06426692 0 0 0 0 0 0 0 0.064274549 0 0 0 0 0 0 0 0 0 0 0.064274549 0 0 0 0 0 0 0 0 0 0.064274549"
+         y="81.21027"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.7790468 0 0 1.7790468 0 0 0 0 0 1.7790449 0 0 0 0 1.7790487"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">workshop to learn more about </tspan><tspan
+           dx="1.7790487 0 0 0 0 0 0 0 1.7790487 0 0 0 0 0 0 0 0 0 0 1.7790411 0 0 0 0 0 0 0 0 0 1.7790563"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">testing earthquake forecasts and </tspan></tspan><tspan
          x="9.7519531"
-         y="85.685276"><tspan
+         y="85.482212"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start">perform evaluations with the pyCSEP software toolkit: </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
-       x="113.28571"
-       y="94.079712"
+       x="118.57738"
+       y="97.254707"
        id="text1081-3-2"><tspan
          sodipodi:role="line"
          id="tspan1079-8-6"
-         x="113.28571"
-         y="94.079712"
+         x="118.57738"
+         y="97.254707"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">16 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
          sodipodi:role="line"
-         x="113.28571"
-         y="99.190948"
+         x="118.57738"
+         y="102.31236"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1121-8">23 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
          sodipodi:role="line"
-         x="113.28571"
-         y="104.30219"
+         x="118.57738"
+         y="107.37001"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1377">25 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan><tspan
          sodipodi:role="line"
-         x="113.28571"
-         y="109.41342"
+         x="118.57738"
+         y="112.42767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1373">30 March 2021  (16.00 GMT/17.00 CET/9.00 PDT)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.35139px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
-       x="52.964802"
-       y="114.41119"
+       x="58.25647"
+       y="117.58619"
        id="text1081-3-7"><tspan
          sodipodi:role="line"
-         x="52.964802"
-         y="114.41119"
+         x="58.25647"
+         y="117.58619"
          id="tspan1085-0-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">2 hours</tspan></text>
     <text
@@ -886,55 +889,55 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;line-height:1.5;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251354"
        x="23.685207"
-       y="124.54013"
+       y="130.89018"
        id="text1081-6"><tspan
          sodipodi:role="line"
          id="tspan1079-89"
          x="23.685207"
-         y="124.54013"
+         y="130.89018"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354">Hands-on workshop</tspan><tspan
          sodipodi:role="line"
          x="23.685207"
-         y="129.56721"
+         y="135.91727"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354"
          id="tspan1348">preparation:</tspan><tspan
          sodipodi:role="line"
          x="23.685207"
-         y="134.5943"
+         y="140.94435"
          id="tspan1085-04"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35139px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.251354" /></text>
     <text
        xml:space="preserve"
        id="text1187-7"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-16.162046,12.078805)"
+       transform="translate(-16.162046,16.841305)"
        x="0"
        y="0"><tspan
          x="38.193359"
-         y="146.17622"><tspan
-           dx="0 0 0 1.2101212 0 0 0 0 0 0 0 0 0 1.2101212 0 1.2101192 0 0 0 0 0 1.2101212 0 0 0 0 0 0 1.2101212 0 0 1.2101212 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2101212 0 0 0 0 0 0 0 1.2101212 0 0 1.2101212 0 0 0 0 0 0 0 0 0 0 1.2101135"
-           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">We introduce a short series of presentations related to earthquake forecast </tspan></tspan><tspan
+         y="146.27366"><tspan
+           dx="0 0 0 1.6531518 0 0 0 0 0 0 0 0 0 1.6531513 0 1.6531532 0 0 0 0 0 1.6531513 0 0 0 0 0 0 1.6531513 0 0 1.6531513 0 0 0 0 0 0 0 0 0 0 0 0 0 1.6531475 0 0 0 0 0 0 0 1.6531551 0 0 1.6531551 0 0 0 0 0 0 0 0 0 0 1.6531398 0 0 0 0 0 0 0 0 1.6531551"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">We introduce a short series of presentations related to earthquake forecast testing </tspan></tspan><tspan
          x="38.193359"
-         y="150.83289"><tspan
-           dx="0 0 0 0 0 0 0 0 0.69314861 0 0 0 0 0 0 0 0 0.69314957 0 0 0 0 0 0 0 0 0 0 0 0.69314957 0 0 0 0 0 0 0 0.69314575 0 0 0 0.69315338 0 0 0 0 0 0 0 0 0 0 0.69314575 0 0 0 0 0 0.69314575 0 0 0 0 0.69314575"
-           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">testing methods, experiments results and prospects, along with developments </tspan></tspan><tspan
+         y="150.96572"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.44862437 0 0 0 0 0 0 0 0 0 0 0 0.44862628 0 0 0 0 0 0 0 0.44862628 0 0 0 0.44862247 0 0 0 0 0 0 0 0 0 0 0.44862628 0 0 0 0 0 0.44861865 0 0 0 0 0.44862628 0 0 0 0 0 0 0 0 0 0 0 0 0.44862628 0 0 0 0 0.44862628 0 0 0 0.44862628"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">methods, experiments results and prospects, along with developments from the modelers </tspan></tspan><tspan
          x="38.193359"
-         y="155.48957"><tspan
-           style="text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">from the modelers of the RISE project.</tspan></tspan></text>
+         y="155.65778"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:justify;text-anchor:start;shape-inside:url(#rect1189-7)">of the RISE project.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.942126"
-       y="148.42776"
+       y="153.19028"
        id="text922-9-6"><tspan
          sodipodi:role="line"
          id="tspan920-2-7"
          x="15.942126"
-         y="148.42776"
+         y="153.19028"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Testing/Forecasting seminars</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.11964,152.32947 190.62146,-0.002 z"
+       d="m 14.907786,157.09197 190.621464,-0.002 z"
        id="path890-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />

@@ -13,7 +13,7 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    sodipodi:docname="agenda.svg">
   <defs
      id="defs2">
@@ -435,9 +435,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6161946"
-     inkscape:cx="436.93689"
-     inkscape:cy="818.5599"
+     inkscape:zoom="1.6161947"
+     inkscape:cx="240.67194"
+     inkscape:cy="820.11753"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -445,7 +445,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="340"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-intersection-paths="true"
@@ -494,22 +494,17 @@
        id="path890-0-3-2-12"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <a
-       id="a1005-6"
-       xlink:href="https://zoom.us/my/csepmeetings"
-       transform="translate(-33.776524,195.86601)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="56.669395"
-         y="98.445648"
-         id="text1003-2"><tspan
-           sodipodi:role="line"
-           id="tspan1001-6"
-           x="56.669395"
-           y="98.445648"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.264583" /></text>
-    </a>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.892872"
+       y="294.31165"
+       id="text1003-2"><tspan
+         sodipodi:role="line"
+         id="tspan1001-6"
+         x="22.892872"
+         y="294.31165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.264583" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot865"
@@ -566,33 +561,33 @@
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1116);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="3030.5086"><tspan
-           dx="0 3.4506049 3.5828967 3.4726534 1070.2609 3.5828857 3.4506836 3.4615479 1.5654297 1070.2609 3.4506836 1.984375 1070.2607 2.2158203 3.5830078 3.4726562 1070.2607 2.2158203 3.5830078 2.2158203 3.4506836 2.3261719 1.5654297 3.4614258 1.5654297 1070.2612 1.5654297 2.9433594 1070.2607 2.2158203 3.4506836 1070.2607 3.4726562 3.5830078 3.4614258 3.5830078 1.5654297 3.4726562 1070.2612 5.5009766 3.4501953 3.5830078 3.4726562 1.5654297 1.5654297 3.4726562 2.3261719 2.9433594 1070.2607 2.2158203 3.4511719 1070.2607 3.5830078 3.4726562 2.3261719 1.984375 3.4501953 2.2265625 5.5019531 1070.2607 2.9433594 1.5654297 5.5009766 3.5830078 1.5654297 3.4726562 1070.2607 3.4501953 3.5830078 3.4726562 2.3261719 3.4619141 2.2158203 1.5654297 3.4501953 3.5830078 2.9433594 1070.2617 2.2158203 3.4501953 1070.2607 3.4726562 3.3408203 3.4609375 1.5654297 3.5830078 3.4619141 2.2158203 3.4726562 1070.2607 2.2158203 3.5830078 3.4726562 1.5654297 2.3261719 1070.2617 1.984375 3.4492188 2.2050781 3.4726562 3.109375 3.4609375 2.9433594 2.2167969 2.9433594 1070.2598 3.5839844 2.9433594 1.5644531 3.5839844 3.5820312 1070.2617 2.2148438 3.5839844 3.4726562 1070.2598 3.5839844 3.3398438 3.9472656 3.5820312 3.5722656 3.40625 1070.2617 2.2148438 3.4511719 3.4511719 1.5644531 3.2753906 1.5644531 2.2167969 1.796875 1070.2598 3.4511719 3.5820312 1.5664062 2.9433594 1070.2617 1.5644531 3.5820312 3.109375 1.5664062 3.5820312 3.5839844 3.4726562 2.9433594 1070.2598 3.5839844 3.4492188 4.6191406 3.5839844 1.5644531 3.4511719 3.4609375 3.5839844 1.5644531 3.5839844 3.5820312 1070.2617 3.4609375 3.5839844 3.5820312 1070.2617 3.5820312 1.5644531 3.4511719 2.2167969 2.2148438 1.5664062 3.5820312 3.5839844 1070.2598 3.4726562 3.4628906 2.3261719 2.2148438 3.5839844 3.5820312 3.5820312 3.4628906 3.0761719 3.4726562 1070.2598 3.109375 3.4609375 2.2167969 3.4609375 1.5664062 3.4492188 3.5839844 3.5820312 3.4726562 1070.2617 3.5820312 3.4628906 2.2148438 3.4609375 1.796875 1070.2617 0 3.5605469 1.5664062 2.2148438 3.4726562 2.3261719 1.5664062 3.5820312 3.5839844 1070.2598 3.4609375 1070.2598 3.109375 3.4648438 2.2148438 3.4609375 1.5664062 3.4492188 3.5820312 3.5859375 3.4726562 1070.2578 2.21875 3.4492188 1070.2617 2.2148438 3.4726562 2.9414062 2.21875 1.5664062 3.5820312 3.5820312 1070.2617 2.203125 3.4726562 3.5820312 1.5664062 3.453125 3.5820312 2.9414062 1.796875 1070.2617 1.5664062 3.4726562 3.4609375 2.2265625 3.5820312 1.5664062 3.5820312 3.5820312 1070.2617 3.4609375 3.5859375 3.4492188 3.5820312 2.21875 1070.2578 3.9492188 3.5820312 3.5703125 3.40625 1070.2617 2.9453125 2.2148438 3.4609375 3.5820312 3.5859375 3.4609375 2.2265625 3.5820312 2.9453125 1070.2578 3.4609375 3.5859375 3.5820312 1070.2617 1.984375 3.4492188 2.2265625 5.5 3.4648438 2.2148438 2.9414062 1.796875 1070.2617 3.5820312 1.5664062 3.453125 2.2148438 2.2148438 1.5664062 3.5820312 3.5820312 1070.2617 1.984375 3.4492188 2.2070312 3.4726562 3.109375 3.4609375 2.9414062 2.21875 2.9414062 1.796875 1070.2617 3.4609375 3.5820312 3.5859375 1070.2578 3.5859375 3.4726562 2.3242188 1.984375 3.4492188 2.2304688 5.5 1.5664062 3.5820312 3.5820312 1070.2617 2.9414062 2.21875 3.4609375 3.5820312 3.5820312 3.4609375 2.2265625 3.5859375 1070.2578 3.9492188 3.5820312 3.5703125 3.4101562 1070.2578 1.984375 3.453125 2.203125 3.4726562 3.109375 3.4609375 2.9453125 2.2148438 1070.2617 3.109375 3.4492188 3.5820312 2.9453125 4.34375 1.5625 2.9453125 2.2148438 3.4726562 3.5820312 3.109375 3.3398438 1070.2617 3.4609375 3.5859375 3.5820312 1070.2617 3.1054688 3.453125 5.5 3.5820312 3.4609375 2.328125 1.5664062 2.9414062 3.453125 3.5820312 1070.2617 2.2148438 3.4726562 2.9414062 2.21875 2.9414062 1.796875 1070.2617">The goal of the tutorial is to enable modellers to perform simple operations to evaluate their forecasts using the pyCSEP toolkit. This includes downloading and plotting earthquake catalogue data, filtering a catalogue to testing regions, learning about CSEP standards and formats, plotting forecasts, and performing standard CSEP forecast consDistency and comparison tests. 
+         y="3030.5988"><tspan
+           dx="0 3.447849 3.139169 3.1391687 1.5682058 3.1391687 3.1391697 3.1391678 1.2540131 1.5682068 3.1391697 1.5682049 1.5682068 1.5682068 3.1391678 3.1391678 1.5682068 1.5682068 3.1391678 1.5682068 3.1391716 1.8796425 1.2540131 3.1391678 1.2540131 1.5682068 1.2540131 2.8222198 1.5682068 1.5682068 3.1391678 1.5682068 3.1391678 3.1391678 3.1391754 3.1391678 1.2540131 3.1391678 1.5682068 4.7018585 3.1391754 3.1391678 3.1391678 1.2540131 1.2540131 3.1391678 1.8796463 2.8222198 1.5682068 1.5682068 3.1391678 1.5682068 3.1391678 3.1391678 1.8796463 1.5682068 3.1391602 1.8796387 4.7018738 1.5682068 2.8222198 1.2540131 4.7018585 3.1391754 1.2540131 3.1391602 1.5682068 3.1391754 3.1391602 3.1391754 1.8796387 3.1391754 1.5682068 1.2540131 3.1391602 3.1391754 2.8222198 1.5682068 1.5682068 3.1391602 1.5682068 3.1391754 2.8222198 3.1391602 1.2540283 3.1391602 3.1391754 1.5682068 3.1391602 1.5682068 1.5682068 3.1391754 3.1391602 1.2540131 1.8796539 1.5682068 1.5682068 3.1391602 1.8796387 3.1391754 2.8222198 3.1391602 2.8222198 1.5682068 2.8222198 1.5682068 3.1391602 2.8222351 1.2540283 3.1391602 3.1391602 1.5682068 1.5682068 3.1391602 3.1391907 1.5682068 3.1391602 2.8222046 4.0762329 3.764801 3.764801 3.6628418 1.5682068 1.5682068 3.1391602 3.1391602 1.2540283 2.8222046 1.2540283 1.5682068 1.5682068 1.466217 3.4478455 3.1391907 1.2539978 2.8222351 1.5682068 1.2539978 3.1391602 2.8222351 1.2539978 3.1391907 3.1391602 3.1391602 2.8222351 1.5682068 3.1391602 3.1391602 4.0762329 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 1.2539978 3.1391907 3.1391602 1.5682068 3.1391602 3.1391907 3.1391602 1.5682068 3.1391602 1.2540283 3.1391602 1.5682068 1.5682068 1.2539978 3.1391907 3.1391602 1.5682068 3.1391602 3.1391907 1.8796387 1.5682068 3.1391602 3.1391602 3.1391602 3.1391907 2.8222046 3.1391907 1.5682068 2.8222046 3.1391602 1.5682068 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 3.1391602 1.5682068 3.1391602 3.1391907 1.5682068 3.1391602 1.5682068 1.5682068 1.5682068 1.2540283 1.2539978 1.5682068 3.1391602 1.8796387 1.2540283 3.1391602 3.1391907 1.5682068 3.1391602 1.5682068 2.8222046 3.1391602 1.5682373 3.1391602 1.2540283 3.1391602 3.1391602 3.1391602 3.1391602 1.5682373 1.5681763 3.1391602 1.5682373 1.5681763 3.1391602 2.8222656 1.5681763 1.2540283 3.1391602 3.1391602 1.5682373 1.8796387 3.1391602 3.1391602 1.2540283 3.1391602 3.1391602 2.8222046 1.5682373 1.5681763 1.2540283 3.1391602 3.1391602 1.8796997 3.1391602 1.2539673 3.1392212 3.1391602 1.5681763 3.1391602 3.1391602 3.1392212 3.1391602 1.5681763 1.5682373 4.0762329 3.7647705 3.7648315 3.6627808 1.5682373 2.8222046 1.5682373 3.1391602 3.1391602 3.1391602 3.1391602 1.8796387 3.1391602 2.8222656 1.5681763 3.1391602 3.1391602 3.1391602 1.5682373 1.5681763 3.1392212 1.8796387 4.7018433 3.1391602 1.5682373 2.8222046 1.5681763 1.5682373 3.1391602 1.2540283 3.1391602 1.5681763 1.5682373 1.2540283 3.1391602 3.1391602 1.5681763 1.5682373 3.1391602 1.8796387 3.1391602 2.8222656 3.1391602 2.8222046 1.5681763 2.8222656 1.5681763 1.5682373 3.1391602 3.1391602 3.1391602 1.5682373 3.1391602 3.1391602 1.8796387 1.5681763 3.1392212 1.8796387 4.7018433 1.2540283 3.1391602 3.1391602 1.5681763 2.8222656 1.5681763 3.1391602 3.1392212 3.1391602 3.1391602 1.8796387 3.1391602 1.5681763 4.0762939 3.7647705 3.7647705 3.6628418 1.5682373 1.5681763 3.1391602 1.8796387 3.1391602 2.8222656 3.1391602 2.8222046 1.5682373 1.5681763 2.8222046 3.1391602 3.1392212 2.8222046 4.0762329 1.2540283 2.8222046 1.5681763 3.1391602 3.1392212 2.8222046 2.8222046 1.5682373 3.1391602 3.1391602 3.1391602 1.5682373 2.8222046 3.1391602 4.7018433 3.1391602 3.1392212 1.8796387 1.2539673 2.8222656 3.1391602 3.1391602 1.5681763 1.5682373 3.1391602 2.8222046 1.5682373 2.8222046 1.5682373 1.5681763">The goal of the tutorial is to enable modellers to perform simple operations to evaluate their forecasts using the pyCSEP toolkit. This includes downloading and plotting earthquake catalogue data, filtering a catalogue to testing regions, learning about CSEP standards and formats, plotting forecasts, and performing standard CSEP forecast consDistency and comparison tests. 
 </tspan></tspan><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="8674.9488"><tspan>
+         y="8675.039"><tspan>
 </tspan></tspan><tspan
          style="visibility:hidden"
          x="21.097656"
-         y="14319.389"><tspan
-           dx="0 3.4065077 3.3403623 3.9466982 3.5828962 3.5718727 3.4065075 648.5484 1.5654297 2.9434814 648.54846 3.4615479 3.5828857 648.54846 3.4505615 3.5828857 3.4726562 3.5828857 2.0395508 2.9434814 3.4505615 3.5828857 2.204834 3.1088867 3.4726562 648.54846 3.1088867 3.4504395 5.5012207 5.5009766 3.5830078 3.5830078 1.5654297 2.2158203 3.2412109 2.0393066 3.5830078 3.4726562 3.340332 3.4726562 1.5654297 3.4506836 3.5827637 3.4726562 3.5830078 648.54834 3.5830078 3.340332 2.2158203 3.5830078 3.4504395 3.5830078 648.54834 1.5654297 1.5654297 3.5830078 2.3259277 3.4616699 2.3261719 3.340332 648.54834 2.2158203 3.5830078 3.4619141 2.2158203 648.54834 3.5830078 2.2045898 3.4506836 3.340332 1.5654297 3.5830078 3.4726562 2.9433594 648.54834 2.2158203 3.4506836 3.4506836 1.5654297 2.9433594 648.54834 1.984375 3.4506836 2.3261719 648.54834 2.2050781 3.59375 2.2050781 648.54834 3.4726562 3.340332 3.4614258 1.5654297 3.5830078 3.4614258 2.2163086 1.5654297 3.5825195 3.5830078 648.54834 3.5830078 2.2050781 3.4501953 3.5830078 3.4619141 3.5830078 1.5654297 1.5654297 1.5654297 2.9433594 2.2158203 1.5654297 3.1083984 648.54883 3.4726562 3.4619141 2.3261719 2.2158203 3.5830078 3.5820312 3.5830078 3.4619141 3.0761719 3.4726562 648.54785 1.984375 3.4511719 2.2041016 3.4726562 3.109375 3.4619141 2.9433594 2.2158203 2.9433594 1.796875 648.54785 2.2050781 3.59375 2.2050781 648.54883 4.6191406 3.4501953 2.3261719 3.2744141 1.5654297 3.5830078 3.5830078 648.54785 4.6191406 1.5654297 2.2158203 3.5830078 648.54883 3.4726562 3.4619141 2.3261719 2.2158203 3.5820312 3.5830078 3.5830078 3.4619141 3.0761719 3.4726562 648.54785 3.109375 3.4609375 2.2158203 3.4619141 1.5654297 3.4501953 3.5830078 3.5830078 3.4726562 2.9433594 648.54883 1.5654297 3.5830078 648.54785 2.2158203 3.5830078 1.5654297 2.9433594 648.54883 3.1083984 3.4511719 3.5830078 2.2158203 3.3730469 3.3408203 2.2158203 1.796875 648.54785 3.4619141 3.5830078 3.5830078 648.54883 2.2050781 3.59375 2.2050781 648.54688 3.109375 2.2050781 3.4726562 3.4609375 2.2167969 1.5644531 3.5839844 3.5820312 648.54883 3.3398438 1.5664062 2.9433594 3.5820312 3.4628906 1.5644531 1.5664062 2.9433594 3.4609375 2.2167969 1.5644531 3.4511719 3.5820312 2.9433594 1.796875 2.2167969 3.4609375 2.9433594 3.5839844">PyCSEP is an open-source community-developed python library that provides tools for (1) evaluating probabilistic earthquake forecasts, (2) working with earthquake catalogues in this context, and (3) creating visualisations.tasdt</tspan></tspan></text>
+         y="14319.479"><tspan
+           dx="0 3.7647974 2.8222201 4.0762343 3.7647972 3.7647972 3.6628227 1.5682068 1.2540131 2.8222198 1.5682068 3.1391697 3.1391678 1.5682068 3.1391678 3.1391678 3.1391716 3.1391678 1.8796425 2.8222198 3.1391678 3.1391716 1.8796425 2.822216 3.1391678 1.5682068 2.8222198 3.1391754 4.7018585 4.7018661 3.1391678 3.1391678 1.2540131 1.5682068 2.8222198 1.8796387 3.1391754 3.1391678 2.8222198 3.1391678 1.2540131 3.1391678 3.1391678 3.1391678 3.1391678 1.5682068 3.1391754 2.8222198 1.5682068 3.1391602 3.1391754 3.1391602 1.5682068 1.2540131 1.2540283 3.1391602 1.8796387 3.1391754 1.8796387 2.8222198 1.5682068 1.5682068 3.1391754 3.1391602 1.5682068 1.5682068 3.1391754 1.8796387 3.1391754 2.8222198 1.2540131 3.1391602 3.1391754 2.8222198 1.5682068 1.5682068 3.1391602 3.1391754 1.2540131 2.8222198 1.5682068 1.5682068 3.1391602 1.8796539 1.5682068 1.8796387 3.1391602 1.8796539 1.5682068 3.1391602 2.8222198 3.1391754 1.2540131 3.1391602 3.1391754 1.5682068 1.2540131 3.1391754 3.1391602 1.5682068 3.1391602 1.8796387 3.1391907 3.1391602 3.1391602 3.1391907 1.2539978 1.2540283 1.2539978 2.8222351 1.5682068 1.2539978 2.8222351 1.5682068 3.1391602 3.1391602 1.8796387 1.5682068 3.1391907 3.1391602 3.1391602 3.1391602 2.8222351 3.1391602 1.5682068 1.5682068 3.1391907 1.8796387 3.1391602 2.8222046 3.1391907 2.8222046 1.5682068 2.8222351 1.5682068 1.5682068 1.8796387 3.1391602 1.8796387 1.5682068 4.0762329 3.1391907 1.8796387 2.8222046 1.2540283 3.1391602 3.1391602 1.5682068 4.0762329 1.2540283 1.5682068 3.1391602 1.5682068 3.1391602 3.1391907 1.8796387 1.5682068 3.1391602 3.1391602 3.1391907 3.1391602 2.8222046 3.1391907 1.5682068 2.8222046 3.1391602 1.5682068 3.1391907 1.2539978 3.1391602 3.1391907 3.1391602 3.1391602 2.8222351 1.5682068 1.2539978 3.1391907 1.5682068 1.5682068 3.1391602 1.2539978 2.8222351 1.5682068 2.8222046 3.1391907 3.1391602 1.5682068 3.1391602 2.8222351 1.5682068 1.5682068 1.5682068 3.1391602 3.1391602 3.1391907 1.5682068 1.8796387 3.1391602 1.8796387 1.5682068 2.8222351 1.8796387 3.1391602 3.1391602 1.5682068 1.2540283 3.1391602 3.1391602 1.5682373 2.8222046 1.2540283 2.8222046 3.1391602 3.1391602 1.2540283 1.2540283 2.8222046 3.1391602 1.5682373 1.2539673 3.1392212 3.1391602 2.8222046 1.5681763 1.5682373 3.1391602 2.8222046 3.1391602">PyCSEP is an open-source community-developed python library that provides tools for (1) evaluating probabilistic earthquake forecasts, (2) working with earthquake catalogues in this context, and (3) creating visualisations.tasdt</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1120"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1122);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="12.371094"
-         y="3030.5086"><tspan
-           dx="0 3.4616294 2.9434876 3.5828962">asdt</tspan></tspan></text>
+         y="3030.5988"><tspan
+           dx="0 3.1391687 2.8222198 3.1391687">asdt</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1126"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1128);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          style="visibility:hidden"
          x="9.8066406"
-         y="2988.5262"><tspan
-           dx="0 3.4616294 2.9434876 3.5828962 3.4616299 2.9434881">asdasd</tspan></tspan></text>
+         y="2988.6164"><tspan
+           dx="0 3.1391687 2.8222198 3.1391687 3.1391687 2.8222208">asdasd</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1095"
@@ -607,8 +602,8 @@
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-7);fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(-16.428481,-122.06431)"><tspan
          x="38.193359"
-         y="146.17622"><tspan
-           style="shape-inside:url(#rect1189-7)">All times are shown in UTC</tspan></tspan></text>
+         y="146.27366"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">All times are shown in UTC</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1000;font-family:'noto sans';-inkscape-font-specification:'noto sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1788,29 +1783,29 @@
        y="-3.4182832"
        style="font-size:0.0997222px;stroke-width:0.00831018"><tspan
          class="TextParagraph"
-         font-family="'Noto Sans', sans-serif"
          font-size="3.22435px"
          font-weight="400"
          id="tspan307"
-         style="stroke-width:0.00690591"><tspan
+         style="stroke-width:0.00690591"
+         font-family="'Noto Sans', sans-serif"><tspan
            class="TextPosition"
            x="89.651245"
            y="72.021568"
            id="tspan301"
            style="stroke-width:0.00831018"><tspan
-             fill="#000000"
-             stroke="none"
              id="tspan299"
-             style="stroke-width:0.00690591">Testing the first Italy Experiment: Analysis of the spatial distribution of time-</tspan></tspan><tspan
+             style="stroke-width:0.00690591"
+             stroke="none"
+             fill="#000000">Testing the first Italy Experiment: Analysis of the spatial distribution of time-</tspan></tspan><tspan
            class="TextPosition"
            x="89.651245"
            y="76.417648"
            id="tspan305"
            style="stroke-width:0.00831018"><tspan
-             fill="#000000"
-             stroke="none"
              id="tspan303"
-             style="stroke-width:0.00690591">independent forecasts</tspan></tspan></tspan></text>
+             style="stroke-width:0.00690591"
+             stroke="none"
+             fill="#000000">independent forecasts</tspan></tspan></tspan></text>
     <text
        class="TextShape"
        id="text333"
@@ -1864,16 +1859,12 @@
          font-size="3.22435px"
          font-weight="400"
          id="tspan403"
-         style="stroke-width:0.00690591"><tspan
+         style="stroke-width:0.00690591;-inkscape-font-specification:'Noto Sans';font-family:'Noto Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
            class="TextPosition"
            x="89.651245"
            y="105.08772"
            id="tspan401"
-           style="stroke-width:0.00831018"><tspan
-             fill="#000000"
-             stroke="none"
-             id="tspan399"
-             style="stroke-width:0.00690591">Time-independent earthquake forecasts with Inlabru</tspan></tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.00690591">Time-independent earthquake forecasts with Inlabru</tspan></tspan></text>
     <text
        class="TextShape"
        id="text429"
@@ -2178,7 +2169,7 @@
          id="tspan8203"
          x="89.992493"
          y="128.23192"
-         style="font-size:3.22086px;stroke-width:0.264583">A test on the 2016-2017 Central Italy Earthquake Cascade</tspan></text>
+         style="font-size:3.22086px;stroke-width:0.264583;-inkscape-font-specification:'Noto Sans';font-family:'Noto Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">A test on the 2016-2017 Central Italy Earthquake Cascade</tspan></text>
     <path
        style="fill:none;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 21.411307,39.247076 142.542723,-0.002 z"
@@ -2216,20 +2207,20 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583">Links</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:3.52778006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
        x="23.936148"
-       y="253.78488"
+       y="254.71095"
        id="text1081-3-0"><tspan
          x="23.936148"
-         y="253.78488"
+         y="254.71095"
          id="tspan1085-0-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
-         sodipodi:role="line">or you can drop by during the installation troubleshooting clinic: </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778006px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.26458299"
+         sodipodi:role="line">or you can drop by during the installation troubleshooting clinic</tspan><tspan
          x="23.936148"
-         y="258.19458"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.264583"
+         y="259.12067"
          sodipodi:role="line"
-         id="tspan1482" /></text>
+         id="tspan1482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778006px;font-family:'noto sans';-inkscape-font-specification:'noto sans';stroke-width:0.26458299" /></text>
     <text
        xml:space="preserve"
        id="text1187-8"
@@ -2240,118 +2231,99 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">If you encounter problems during the installation, you may either submit anissue on git:
 </tspan></tspan><tspan
          x="38.193359"
-         y="150.2834"><tspan
+         y="150.22701"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'">
 </tspan></tspan></text>
-    <g
-       id="g2121"
-       transform="translate(1.6767253,-40.089964)">
-      <a
-         id="a1438"
-         xlink:href="https://github.com/SCECcode/pycsep"
-         transform="translate(-36.695379,9.7272674)">
-        <text
-           xml:space="preserve"
-           id="text1430"
-           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-6-4-4-7);fill:#000000;fill-opacity:1;stroke:none;"
-           transform="translate(63.731431,13.018072)"><tspan
-             x="0.38867188"
-             y="262.01427"><tspan
-               style="font-size:3.52778px;fill:#0000ff">https://github.com/SCECcode/pycsep</tspan></tspan></text>
-      </a>
-      <a
-         id="a1478"
-         xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
-         transform="translate(-40.889359,4.9697574)">
-        <text
-           xml:space="preserve"
-           id="text1430-9"
-           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-7-3-8-4-6);fill:#000000;fill-opacity:1;stroke:none;"
-           transform="translate(68.252858,21.638256)"><tspan
-             x="0.38867188"
-             y="262.10285"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
-      </a>
-    </g>
     <text
        xml:space="preserve"
-       id="text1187-8-2"
-       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1189-1-5-9-1-4-7);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(0.93294744,0,0,0.93294744,-11.60025,87.510437)"><tspan
-         x="38.193359"
-         y="145.87291"><tspan
-           style="font-weight:bold">Installation guide
-</tspan></tspan><tspan
-         x="38.193359"
-         y="150.10625"><tspan
-           style="font-weight:bold">Workshop material
-</tspan></tspan><tspan
-         x="38.193359"
-         y="154.33958"><tspan
-           style="font-weight:bold">Modeler survey</tspan></tspan></text>
+       id="text1430"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-6-4-4-7);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(34.089973,-12.410979)"><tspan
+         x="0.38867188"
+         y="262.10285"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/SCECcode/pycsep</tspan></tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1432-7-3-8-4-6);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1430-9"
+       xml:space="preserve"
+       x="27.363499"
+       y="26.608013"
+       transform="translate(34.065388,-17.631309)"><tspan
+         x="0.38867188"
+         y="262.10285"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#0000ff">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></tspan></text>
     <a
-       id="a1315"
+       id="a1348"
        xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide"
        transform="translate(2.3902299,-43.264963)">
-      <a
-         id="a1348"
-         xlink:href="https://github.com/SCECcode/pycsep/wiki/Installation-Guide">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="266.86792"
+         id="text995-9"><tspan
+           sodipodi:role="line"
+           id="tspan993-6"
            x="62.646835"
            y="266.86792"
-           id="text995-9"><tspan
-             sodipodi:role="line"
-             id="tspan993-6"
-             x="62.646835"
-             y="266.86792"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
-      </a>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/SCECcode/pycsep/wiki/Installation-Guide</tspan></text>
     </a>
     <a
-       id="a1303"
+       id="a1311"
        xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21"
        transform="translate(2.3902299,-43.264963)">
       <a
-         id="a1311"
+         id="a1319"
          xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21">
-        <a
-           id="a1319"
-           xlink:href="https://github.com/cseptesting/pycsep_workshop_rise21">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
-             x="62.646835"
-             y="270.77722"
-             id="text995-6-5"><tspan
-               sodipodi:role="line"
-               id="tspan993-0-6"
-               x="62.646835"
-               y="270.77722"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
-        </a>
-      </a>
-    </a>
-    <a
-       id="a1299"
-       xlink:href="https://csep.limesurvey.net/481967?lang=en"
-       transform="translate(2.3902299,-43.264963)">
-      <a
-         id="a1307"
-         xlink:href="https://csep.limesurvey.net/481967?lang=en">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
            x="62.646835"
-           y="274.68652"
-           id="text995-6-7-5"><tspan
+           y="270.77722"
+           id="text995-6-5"><tspan
              sodipodi:role="line"
-             id="tspan993-0-5-9"
+             id="tspan993-0-6"
              x="62.646835"
-             y="274.68652"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967</tspan></text>
+             y="270.77722"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://github.com/cseptesting/pycsep_workshop_rise21</tspan></text>
       </a>
     </a>
+    <a
+       id="a1307"
+       xlink:href="https://csep.limesurvey.net/481967?lang=en"
+       transform="translate(2.3902299,-43.264963)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.29123px;line-height:1000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.246842"
+         x="62.646835"
+         y="274.68652"
+         id="text995-6-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan993-0-5-9"
+           x="62.646835"
+           y="274.68652"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29123px;font-family:'noto sans';-inkscape-font-specification:'noto sans';fill:#0000ff;stroke-width:0.246842">https://csep.limesurvey.net/481967</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.814203"
+       y="223.83578"
+       id="text4996"><tspan
+         sodipodi:role="line"
+         x="25.814203"
+         y="223.83578"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+         id="tspan4998">Installation Guide</tspan><tspan
+         sodipodi:role="line"
+         x="25.814203"
+         y="227.51309"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+         id="tspan5004">Workshop material</tspan><tspan
+         sodipodi:role="line"
+         x="25.814203"
+         y="231.19041"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+         id="tspan5000">Survey</tspan></text>
   </g>
 </svg>
