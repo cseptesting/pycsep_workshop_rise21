@@ -436,8 +436,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.096819"
-     inkscape:cx="319.84729"
-     inkscape:cy="370.17828"
+     inkscape:cx="297.62516"
+     inkscape:cy="571.30619"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1498,7 +1498,7 @@
            font-size="3.22435px"
            font-weight="400"
            id="tspan191-6"
-           style="font-weight:bold;stroke-width:0.00690591">GMT / CET / PST</tspan></text>
+           style="font-weight:bold;stroke-width:0.00690591">GMT / CET / PDT</tspan></text>
       <text
          class="TextShape"
          id="text193-7"
@@ -1582,7 +1582,7 @@
            font-size="3.22435px"
            font-weight="400"
            id="tspan191-5-5-2-1-7-9-6"
-           style="stroke-width:0.00690591">18:00 / 18:00 / 11:00</tspan></text>
+           style="stroke-width:0.00690591">18:00 / 19:00 / 11:00</tspan></text>
     </g>
     <g
        id="g1878"
@@ -1610,7 +1610,7 @@
            font-size="3.22435px"
            font-weight="400"
            id="tspan191-6-8"
-           style="font-weight:bold;stroke-width:0.00690591">GMT / CET / PST</tspan></text>
+           style="font-weight:bold;stroke-width:0.00690591">GMT / CET / PDT</tspan></text>
       <text
          class="TextShape"
          id="text193-6-3"
@@ -1706,7 +1706,7 @@
          id="tspan2075"
          x="26.926756"
          y="166.53331"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.22439px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">  BST / CEST / PST  </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.22439px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">  BST / CEST / PDT  </tspan><tspan
          sodipodi:role="line"
          x="26.926756"
          y="171.39931"
@@ -1833,7 +1833,7 @@
          x="89.80941"
          y="191.08661"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.21028px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.264583"
-         id="tspan2445">Q&amp;A / Breaj</tspan><tspan
+         id="tspan2445">Q&amp;A / Break</tspan><tspan
          sodipodi:role="line"
          x="89.80941"
          y="195.9313"
@@ -1861,6 +1861,6 @@
          y="162.14377"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.264583"><tspan
    style="font-weight:bold"
-   id="tspan2511">** </tspan>Starts one hour early in PST. In Europe, starts at the same clock time</tspan></text>
+   id="tspan2511">** </tspan>Starts one hour early in PDT. In Europe, starts at the same clock time</tspan></text>
   </g>
 </svg>
